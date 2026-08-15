@@ -1,0 +1,98 @@
+[
+  {
+    "id": "space",
+    "title": "Space",
+    "description": "Explore the universe and everything in it!",
+    "iconId": "space",
+    "accentColorId": "navy",
+    "displayOrder": 1
+  },
+  {
+    "id": "animals",
+    "title": "Animals",
+    "description": "Meet amazing creatures big and small.",
+    "iconId": "animals",
+    "accentColorId": "peach",
+    "displayOrder": 2
+  },
+  {
+    "id": "human_body",
+    "title": "Human Body",
+    "description": "Discover the incredible body you live in.",
+    "iconId": "body",
+    "accentColorId": "coral",
+    "displayOrder": 3
+  },
+  {
+    "id": "dinosaurs",
+    "title": "Dinosaurs",
+    "description": "Travel back to the age of giant reptiles.",
+    "iconId": "dinosaurs",
+    "accentColorId": "yellow",
+    "displayOrder": 4
+  },
+  {
+    "id": "earth",
+    "title": "Earth",
+    "description": "Look closer at our wonderful home planet.",
+    "iconId": "earth",
+    "accentColorId": "sky",
+    "displayOrder": 5
+  },
+  {
+    "id": "weather",
+    "title": "Weather",
+    "description": "Find out what makes our skies change.",
+    "iconId": "weather",
+    "accentColorId": "peach",
+    "displayOrder": 6
+  },
+  {
+    "id": "nature",
+    "title": "Nature & Plants",
+    "description": "See the clever ways nature grows and changes.",
+    "iconId": "nature",
+    "accentColorId": "mint",
+    "displayOrder": 7
+  },
+  {
+    "id": "oceans",
+    "title": "Oceans",
+    "description": "Dive into the blue world beneath the waves.",
+    "iconId": "oceans",
+    "accentColorId": "sky",
+    "displayOrder": 8
+  },
+  {
+    "id": "science",
+    "title": "Science",
+    "description": "Test everyday ideas with curious science.",
+    "iconId": "science",
+    "accentColorId": "coral",
+    "displayOrder": 9
+  },
+  {
+    "id": "technology",
+    "title": "Technology",
+    "description": "Understand the helpful tools all around you.",
+    "iconId": "technology",
+    "accentColorId": "navy",
+    "displayOrder": 10
+  },
+  {
+    "id": "food",
+    "title": "Food",
+    "description": "Taste the science in the food we eat.",
+    "iconId": "food",
+    "accentColorId": "coral",
+    "displayOrder": 11
+  },
+  {
+    "id": "everyday_life",
+    "title": "Everyday Life",
+    "description": "Uncover the little mysteries in your day.",
+    "iconId": "everyday",
+    "accentColorId": "peach",
+    "displayOrder": 12
+  }
+]

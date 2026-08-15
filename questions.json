@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "space_001",
+    "categoryId": "space",
+    "question": "Why does the Moon change shape?",
+    "shortAnswer": "The Moon does not really change shape. As it travels around Earth, we see different amounts of the half lit by the Sun.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The Sun lights the Moon",
+        "text": "Half of the Moon is always lit by sunlight."
+      },
+      {
+        "title": "The Moon moves",
+        "text": "As the Moon travels around Earth, our viewing angle changes."
+      },
+      {
+        "title": "We see phases",
+        "text": "That creates the crescent, half and full Moon shapes we notice."
+      }
+    ],
+    "funFacts": [
+      "A full cycle of Moon phases takes about 29.5 days.",
+      "The Moon shines by reflecting sunlight, not by making its own light."
+    ],
+    "quiz": {
+      "question": "Why does the Moon appear to change shape?",
+      "answers": [
+        "Clouds cover parts of it",
+        "We see different amounts of its sunlit half",
+        "The Moon physically changes shape",
+        "Earth changes its size"
+      ],
+      "correctIndex": 1
+    },
+    "relatedIds": [
+      "space_002",
+      "space_003",
+      "space_004",
+      "space_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "moon",
+      "phases",
+      "sunlight"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "space_002",
+    "categoryId": "space",
+    "question": "Why do stars twinkle?",
+    "shortAnswer": "Stars are very faraway suns. Their light wiggles as it passes through moving layers of air in Earth’s atmosphere, making the stars seem to sparkle.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Starlight travels",
+        "text": "Light from a star crosses a huge distance to reach us."
+      },
+      {
+        "title": "Air is always moving",
+        "text": "Warm and cool pockets of air bend the light in slightly different ways."
+      },
+      {
+        "title": "Our eyes see a shimmer",
+        "text": "Those quick changes make the star look as if it is twinkling."
+      }
+    ],
+    "funFacts": [
+      "Planets usually twinkle less because they look like tiny disks instead of single points.",
+      "Stars can twinkle in many colors, even when they look white."
+    ],
+    "quiz": {
+      "question": "What makes stars seem to twinkle?",
+      "answers": [
+        "Moving air bends their light",
+        "Stars turn their lights on and off",
+        "The Moon shakes them",
+        "Clouds make the stars"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "space_001",
+      "space_003",
+      "space_004",
+      "space_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "stars",
+      "light",
+      "atmosphere"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "space_003",
+    "categoryId": "space",
+    "question": "Why is the Sun so hot?",
+    "shortAnswer": "The Sun is a giant ball of very hot gas. Deep inside, tiny particles join together and release an enormous amount of energy as heat and light.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The Sun has a hot center",
+        "text": "Its middle is squeezed by the weight of all the material above it."
+      },
+      {
+        "title": "Particles join",
+        "text": "Hydrogen particles join in a process called nuclear fusion."
+      },
+      {
+        "title": "Energy travels out",
+        "text": "That energy slowly moves outward before reaching us as light and warmth."
+      }
+    ],
+    "funFacts": [
+      "The Sun is a star, and it is the closest star to Earth.",
+      "Light from the Sun takes about eight minutes to reach Earth."
+    ],
+    "quiz": {
+      "question": "What process makes energy inside the Sun?",
+      "answers": [
+        "Freezing",
+        "Nuclear fusion",
+        "Rainfall",
+        "Digestion"
+      ],
+      "correctIndex": 1
+    },
+    "relatedIds": [
+      "space_001",
+      "space_002",
+      "space_004",
+      "space_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "sun",
+      "heat",
+      "star"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "space_004",
+    "categoryId": "space",
+    "question": "Why do planets stay in orbit?",
+    "shortAnswer": "The Sun’s gravity pulls on planets while their forward motion carries them onward. Together, the pull and the motion make a curved path called an orbit.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Planets are moving",
+        "text": "A planet would travel in a straight line if nothing pulled on it."
+      },
+      {
+        "title": "Gravity pulls inward",
+        "text": "The Sun’s gravity constantly tugs the planet toward the Sun."
+      },
+      {
+        "title": "The path curves",
+        "text": "Forward motion and gravity work together to make an orbit."
+      }
+    ],
+    "funFacts": [
+      "A planet’s orbit is usually an oval, not a perfect circle.",
+      "Gravity also keeps moons moving around planets."
+    ],
+    "quiz": {
+      "question": "What helps keep a planet in orbit?",
+      "answers": [
+        "Sunlight alone",
+        "Gravity and forward motion",
+        "Clouds around the planet",
+        "The planet standing still"
+      ],
+      "correctIndex": 1
+    },
+    "relatedIds": [
+      "space_001",
+      "space_002",
+      "space_003",
+      "space_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "planets",
+      "orbit",
+      "gravity"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "space_005",
+    "categoryId": "space",
+    "question": "Why is space dark?",
+    "shortAnswer": "Space looks dark because it has very little air to scatter sunlight. Light travels through space, but we only see it when it enters our eyes or bounces off something.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Light still travels",
+        "text": "Sunlight moves across empty space in straight lines."
+      },
+      {
+        "title": "There is little air",
+        "text": "Without many particles, the light is not spread across the whole sky."
+      },
+      {
+        "title": "We see bright objects",
+        "text": "Stars and planets look bright when their light reaches our eyes."
+      }
+    ],
+    "funFacts": [
+      "The sky looks blue on Earth because air scatters some sunlight.",
+      "Astronauts can see bright stars even when the Sun is shining nearby."
+    ],
+    "quiz": {
+      "question": "Why does space usually look dark?",
+      "answers": [
+        "There is very little air to scatter light",
+        "The Sun stops shining there",
+        "Stars are made of shadows",
+        "Planets absorb all light"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "space_001",
+      "space_002",
+      "space_003",
+      "space_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "space",
+      "dark",
+      "light"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "animals_001",
+    "categoryId": "animals",
+    "question": "Why do cats purr?",
+    "shortAnswer": "Cats often purr when they feel calm, but they can also purr when they are nervous or hurt. Purring may help them communicate and soothe themselves.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A cat makes a gentle vibration",
+        "text": "Muscles near its voice box open and close quickly as the cat breathes."
+      },
+      {
+        "title": "The sound travels",
+        "text": "That vibration creates the familiar soft purring sound."
+      },
+      {
+        "title": "Cats use it in different moments",
+        "text": "They may purr to say hello, ask for comfort, or calm themselves."
+      }
+    ],
+    "funFacts": [
+      "Some big cats can purr when they breathe out but cannot roar.",
+      "Kittens can purr while nursing, so their mother can feel they are nearby."
+    ],
+    "quiz": {
+      "question": "When might a cat purr?",
+      "answers": [
+        "Only when it is asleep",
+        "Only when it is hungry",
+        "When it is calm or needs comfort",
+        "Only when it is angry"
+      ],
+      "correctIndex": 2
+    },
+    "relatedIds": [
+      "animals_002",
+      "animals_003",
+      "animals_004",
+      "animals_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "cats",
+      "purring",
+      "communication"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "animals_002",
+    "categoryId": "animals",
+    "question": "Why can birds fly?",
+    "shortAnswer": "Birds can fly because their bodies are built for flight. Wings create lift, strong chest muscles power their movements, and feathers help steer and slow the air.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Wings create lift",
+        "text": "The shape of a wing helps moving air push the bird upward."
+      },
+      {
+        "title": "Muscles power the wings",
+        "text": "Large chest muscles pull the wings down and forward."
+      },
+      {
+        "title": "Feathers help control flight",
+        "text": "Individual feathers help a bird turn, brake, and stay balanced."
+      }
+    ],
+    "funFacts": [
+      "Bird bones are light but strong; many have air-filled spaces.",
+      "Not every bird flies. Penguins, ostriches, and kiwis have different body adaptations."
+    ],
+    "quiz": {
+      "question": "What helps a bird steer in the air?",
+      "answers": [
+        "Its feathers",
+        "Its teeth",
+        "Its stomach",
+        "Its claws only"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "animals_001",
+      "animals_003",
+      "animals_004",
+      "animals_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "birds",
+      "flight",
+      "wings"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "animals_003",
+    "categoryId": "animals",
+    "question": "Why do elephants have trunks?",
+    "shortAnswer": "An elephant’s trunk is a long, flexible nose and upper lip. It helps the elephant breathe, smell, pick up food, drink water, and make gentle sounds.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "It can reach",
+        "text": "The trunk lets an elephant grab leaves high up or grass near the ground."
+      },
+      {
+        "title": "It can hold water",
+        "text": "An elephant sucks water into the trunk, then sprays it into its mouth."
+      },
+      {
+        "title": "It can sense the world",
+        "text": "The trunk is sensitive and helps with smell, touch, and communication."
+      }
+    ],
+    "funFacts": [
+      "An elephant trunk contains about 40,000 muscles.",
+      "Elephants can use their trunks to greet friends with a soft touch."
+    ],
+    "quiz": {
+      "question": "What is an elephant’s trunk?",
+      "answers": [
+        "A long ear",
+        "A nose and upper lip together",
+        "A tail used for swimming",
+        "A horn"
+      ],
+      "correctIndex": 1
+    },
+    "relatedIds": [
+      "animals_001",
+      "animals_002",
+      "animals_004",
+      "animals_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "elephants",
+      "trunk",
+      "animals"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "animals_004",
+    "categoryId": "animals",
+    "question": "Why do bees buzz?",
+    "shortAnswer": "A bee’s wings beat very quickly, pushing air and making a buzzing sound. Bees also use buzzing vibrations to communicate and help loosen pollen from some flowers.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Wings move fast",
+        "text": "A bee beats its wings hundreds of times each second."
+      },
+      {
+        "title": "Air begins to vibrate",
+        "text": "The quick wingbeats make the surrounding air vibrate."
+      },
+      {
+        "title": "The vibration has uses",
+        "text": "Bees can use special buzzing motions to shake pollen loose."
+      }
+    ],
+    "funFacts": [
+      "Bees can feel vibrations through their legs.",
+      "A bee’s buzz can sound different depending on how it is flying."
+    ],
+    "quiz": {
+      "question": "What mainly makes a bee buzz?",
+      "answers": [
+        "Its wings moving quickly",
+        "Its stripes glowing",
+        "Its honey melting",
+        "Its legs snapping"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "animals_001",
+      "animals_002",
+      "animals_003",
+      "animals_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "bees",
+      "buzz",
+      "pollination"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "animals_005",
+    "categoryId": "animals",
+    "question": "Why do chameleons change color?",
+    "shortAnswer": "Chameleons change color using layers of special skin cells. The change can help them communicate, control body temperature, and sometimes blend with their surroundings.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Special cells reflect light",
+        "text": "Tiny structures under the skin can change how light bounces back."
+      },
+      {
+        "title": "The skin color shifts",
+        "text": "The chameleon adjusts these cells using signals from its body."
+      },
+      {
+        "title": "The color sends a message",
+        "text": "A bright or dark color can show mood, temperature, or a warning."
+      }
+    ],
+    "funFacts": [
+      "Color change is not always camouflage; communication is often important.",
+      "Chameleons can use darker colors to absorb more warming sunlight."
+    ],
+    "quiz": {
+      "question": "Why might a chameleon change color?",
+      "answers": [
+        "To communicate or control temperature",
+        "To grow new legs",
+        "To make its eyes bigger",
+        "To turn into a plant"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "animals_001",
+      "animals_002",
+      "animals_003",
+      "animals_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "chameleons",
+      "color",
+      "camouflage"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "human_body_001",
+    "categoryId": "human_body",
+    "question": "Why does your heart beat?",
+    "shortAnswer": "Your heart beats to push blood around your body. The blood carries oxygen and useful nutrients to cells, then carries some waste away.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The heart squeezes",
+        "text": "Strong muscle walls contract and push blood out."
+      },
+      {
+        "title": "Blood travels",
+        "text": "Blood moves through tubes called blood vessels to reach every part of you."
+      },
+      {
+        "title": "The heart relaxes",
+        "text": "The chambers fill again so the next beat can send more blood."
+      }
+    ],
+    "funFacts": [
+      "A child’s resting heart can beat more than 100,000 times in a day.",
+      "You can feel a pulse where a blood vessel is close to your skin."
+    ],
+    "quiz": {
+      "question": "What does the heart pump around the body?",
+      "answers": [
+        "Air",
+        "Blood",
+        "Food",
+        "Bones"
+      ],
+      "correctIndex": 1
+    },
+    "relatedIds": [
+      "human_body_002",
+      "human_body_003",
+      "human_body_004",
+      "human_body_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "heart",
+      "blood",
+      "pulse"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "human_body_002",
+    "categoryId": "human_body",
+    "question": "Why do we yawn?",
+    "shortAnswer": "Yawning is an automatic action that opens your mouth and changes your breathing. It often happens when you are tired or switching between sleep and being awake.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Your brain notices a change",
+        "text": "Tiredness or a change in attention can make a yawn more likely."
+      },
+      {
+        "title": "Muscles stretch",
+        "text": "Your jaw and face muscles open and stretch as you yawn."
+      },
+      {
+        "title": "Your body resets attention",
+        "text": "Yawning may help your brain shift between different levels of alertness."
+      }
+    ],
+    "funFacts": [
+      "Yawning can be contagious when we see or hear someone else yawn.",
+      "Many animals, including dogs and horses, yawn too."
+    ],
+    "quiz": {
+      "question": "When do people often yawn?",
+      "answers": [
+        "When they are tired",
+        "Only after eating",
+        "Only while swimming",
+        "When their bones grow"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "human_body_001",
+      "human_body_003",
+      "human_body_004",
+      "human_body_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "yawn",
+      "tired",
+      "brain"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "human_body_003",
+    "categoryId": "human_body",
+    "question": "Why are fingerprints different?",
+    "shortAnswer": "Fingerprints form before birth from a mix of genes and tiny movements in the womb. That special pattern helps your fingers grip objects and is different for almost everyone.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Skin ridges grow",
+        "text": "Ridges form on the skin of your fingertips before you are born."
+      },
+      {
+        "title": "The womb shapes them",
+        "text": "Small changes in pressure and movement affect the final pattern."
+      },
+      {
+        "title": "The pattern stays",
+        "text": "Your fingerprints grow with you but keep the same basic design."
+      }
+    ],
+    "funFacts": [
+      "Even identical twins have different fingerprints.",
+      "Fingerprints can help people hold smooth objects more securely."
+    ],
+    "quiz": {
+      "question": "When do fingerprints begin to form?",
+      "answers": [
+        "Before birth",
+        "After your first birthday",
+        "Only when you become an adult",
+        "After a broken bone"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "human_body_001",
+      "human_body_002",
+      "human_body_004",
+      "human_body_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "fingerprints",
+      "skin",
+      "twins"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "human_body_004",
+    "categoryId": "human_body",
+    "question": "Why can broken bones heal?",
+    "shortAnswer": "Bones are living tissue with blood vessels and special cells. After a break, those cells build a soft bridge and then stronger bone while the body keeps the area still.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The body sends helpers",
+        "text": "Blood and repair cells gather around the break."
+      },
+      {
+        "title": "A soft bridge forms",
+        "text": "The body builds a temporary bridge that connects the broken pieces."
+      },
+      {
+        "title": "New bone strengthens",
+        "text": "The bridge is replaced and reshaped into stronger bone over time."
+      }
+    ],
+    "funFacts": [
+      "Bones can become stronger at the place where they healed.",
+      "Doctors use casts or braces to help broken pieces stay still while healing."
+    ],
+    "quiz": {
+      "question": "What helps a broken bone heal?",
+      "answers": [
+        "Repair cells in living bone",
+        "Cold air only",
+        "A new tooth",
+        "Sunlight on the skin"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "human_body_001",
+      "human_body_002",
+      "human_body_003",
+      "human_body_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "bones",
+      "healing",
+      "body"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "human_body_005",
+    "categoryId": "human_body",
+    "question": "Why do we get goosebumps?",
+    "shortAnswer": "Tiny muscles at the base of body hairs tighten when you are cold or excited. This makes the hairs stand up and creates small bumps on your skin.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A signal travels",
+        "text": "Your nervous system notices cold or a strong feeling."
+      },
+      {
+        "title": "Tiny muscles tighten",
+        "text": "Each little muscle pulls its hair upright."
+      },
+      {
+        "title": "Bumps appear",
+        "text": "The skin around the hair rises, making goosebumps."
+      }
+    ],
+    "funFacts": [
+      "Furry animals get goosebumps to make their coats look thicker.",
+      "Goosebumps do not warm humans very much because our body hair is short."
+    ],
+    "quiz": {
+      "question": "What makes goosebumps appear?",
+      "answers": [
+        "Tiny muscles pulling hairs upright",
+        "Your bones changing shape",
+        "Water under the skin",
+        "Your hair melting"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "human_body_001",
+      "human_body_002",
+      "human_body_003",
+      "human_body_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "goosebumps",
+      "cold",
+      "skin"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "dinosaurs_001",
+    "categoryId": "dinosaurs",
+    "question": "Why did many dinosaurs disappear?",
+    "shortAnswer": "About 66 million years ago, a large space rock hit Earth. Dust and gases changed the climate and made it harder for many plants and animals to find food.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A large impact happened",
+        "text": "An asteroid struck near what is now Mexico."
+      },
+      {
+        "title": "The sky changed",
+        "text": "Dust and gases blocked some sunlight and changed temperatures."
+      },
+      {
+        "title": "Food chains broke",
+        "text": "Many plants died, followed by animals that depended on them."
+      }
+    ],
+    "funFacts": [
+      "Birds are living dinosaurs that survived the mass extinction.",
+      "Volcanoes and changing climate may also have added stress at that time."
+    ],
+    "quiz": {
+      "question": "What helped cause the dinosaur extinction?",
+      "answers": [
+        "A large asteroid impact",
+        "A giant birthday party",
+        "The Moon changing shape",
+        "Too much snow in one day"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "dinosaurs_002",
+      "dinosaurs_003",
+      "dinosaurs_004",
+      "dinosaurs_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "dinosaurs",
+      "asteroid",
+      "extinction"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "dinosaurs_002",
+    "categoryId": "dinosaurs",
+    "question": "Why were some dinosaurs so large?",
+    "shortAnswer": "Some dinosaurs grew huge because they had long lives, efficient bodies, and plenty of plants or prey. Their size also helped some adults stay safer from predators.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Food powered growth",
+        "text": "Plant-eating dinosaurs could eat large amounts of vegetation."
+      },
+      {
+        "title": "They kept growing",
+        "text": "Some species grew for much of their lives instead of stopping early."
+      },
+      {
+        "title": "Size gave advantages",
+        "text": "A large body could help reach food and discourage some predators."
+      }
+    ],
+    "funFacts": [
+      "Not all dinosaurs were giant; some were as small as a chicken.",
+      "Large bodies also needed strong legs and a lot of food."
+    ],
+    "quiz": {
+      "question": "What helped some dinosaurs grow very large?",
+      "answers": [
+        "Food and long growth periods",
+        "Magic rocks",
+        "Being made of metal",
+        "Never moving"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "dinosaurs_001",
+      "dinosaurs_003",
+      "dinosaurs_004",
+      "dinosaurs_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "dinosaurs",
+      "size",
+      "growth"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "dinosaurs_003",
+    "categoryId": "dinosaurs",
+    "question": "Why do we find dinosaur fossils?",
+    "shortAnswer": "When a dinosaur was buried quickly, minerals could slowly replace parts of its bones or preserve an imprint. Rocks around the remains protected the shape for millions of years.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A body is buried",
+        "text": "Mud, sand, or ash can cover remains before they are scattered."
+      },
+      {
+        "title": "Minerals move in",
+        "text": "Water carries minerals into spaces in the buried bones."
+      },
+      {
+        "title": "Rock preserves clues",
+        "text": "Over time, the bones or footprints become fossils inside rock."
+      }
+    ],
+    "funFacts": [
+      "A fossil can be a bone, footprint, nest, or even a mark from skin.",
+      "Most dead plants and animals never become fossils because the conditions are not right."
+    ],
+    "quiz": {
+      "question": "What is a dinosaur fossil?",
+      "answers": [
+        "A preserved clue from the past",
+        "A living baby dinosaur",
+        "A polished toy",
+        "A new kind of plant"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "dinosaurs_001",
+      "dinosaurs_002",
+      "dinosaurs_004",
+      "dinosaurs_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "fossils",
+      "dinosaurs",
+      "rocks"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "dinosaurs_004",
+    "categoryId": "dinosaurs",
+    "question": "Why did some dinosaurs have long necks?",
+    "shortAnswer": "A long neck helped some plant-eating dinosaurs reach leaves high in trees or sweep across a wide area without moving their heavy bodies.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The neck reaches food",
+        "text": "A long neck lets an animal browse leaves at different heights."
+      },
+      {
+        "title": "The body stays steady",
+        "text": "The dinosaur can feed without taking many large steps."
+      },
+      {
+        "title": "Different necks fit different diets",
+        "text": "Some long-necked dinosaurs ate high leaves, while others fed closer to the ground."
+      }
+    ],
+    "funFacts": [
+      "Long-necked dinosaurs had special bones and strong muscles to support their necks.",
+      "Scientists study fossil neck bones to learn how dinosaurs held their heads."
+    ],
+    "quiz": {
+      "question": "What could a long neck help a dinosaur do?",
+      "answers": [
+        "Reach food without moving its whole body",
+        "Breathe underwater forever",
+        "Change into a bird",
+        "Make its feet smaller"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "dinosaurs_001",
+      "dinosaurs_002",
+      "dinosaurs_003",
+      "dinosaurs_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "dinosaurs",
+      "long neck",
+      "plants"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "dinosaurs_005",
+    "categoryId": "dinosaurs",
+    "question": "Why did some dinosaurs have feathers?",
+    "shortAnswer": "Feathers probably first helped some dinosaurs stay warm, show colors, or communicate. In a few groups, feathers later became useful for gliding and powered flight.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Simple feathers grew",
+        "text": "Early feather-like coverings could trap warm air near the skin."
+      },
+      {
+        "title": "Feathers sent signals",
+        "text": "Their colors or shapes may have helped dinosaurs attract mates or warn rivals."
+      },
+      {
+        "title": "Flight evolved in some relatives",
+        "text": "Feathers became longer and stronger in dinosaurs related to birds."
+      }
+    ],
+    "funFacts": [
+      "Some dinosaurs had feathers but could not fly.",
+      "Feathers are one reason scientists know birds are related to dinosaurs."
+    ],
+    "quiz": {
+      "question": "What could early feathers help dinosaurs do?",
+      "answers": [
+        "Stay warm or communicate",
+        "Turn into rocks",
+        "Swim without moving",
+        "Make sunlight"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "dinosaurs_001",
+      "dinosaurs_002",
+      "dinosaurs_003",
+      "dinosaurs_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "dinosaurs",
+      "feathers",
+      "birds"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "earth_001",
+    "categoryId": "earth",
+    "question": "Why is the sky blue?",
+    "shortAnswer": "Sunlight contains many colors. Earth’s air scatters blue light more strongly than most other colors, so blue light reaches our eyes from all across the sky.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Sunlight contains colors",
+        "text": "White sunlight is a mixture of red, orange, yellow, green, blue, and violet light."
+      },
+      {
+        "title": "Air scatters some colors",
+        "text": "Tiny air molecules spread short blue light waves in many directions."
+      },
+      {
+        "title": "Blue reaches our eyes",
+        "text": "That scattered light makes the daytime sky appear blue."
+      }
+    ],
+    "funFacts": [
+      "At sunset, sunlight travels through more air, so red and orange light stand out.",
+      "From space, Earth looks blue partly because of its oceans."
+    ],
+    "quiz": {
+      "question": "Why does the daytime sky look blue?",
+      "answers": [
+        "Air scatters blue light",
+        "Clouds paint it blue",
+        "The ocean is above us",
+        "The Sun is blue"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_002",
+      "earth_003",
+      "earth_004",
+      "earth_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "sky",
+      "blue",
+      "sunlight"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "earth_002",
+    "categoryId": "earth",
+    "question": "Why is Earth round?",
+    "shortAnswer": "Earth’s gravity pulls material toward its center from every direction. Over a long time, that pull made our planet nearly round, though it is a little wider around the middle.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Gravity pulls inward",
+        "text": "Every piece of Earth is attracted toward the planet’s center."
+      },
+      {
+        "title": "High bumps settle",
+        "text": "Large bumps slowly move or wear down under gravity."
+      },
+      {
+        "title": "A round world forms",
+        "text": "The balanced shape becomes almost a sphere."
+      }
+    ],
+    "funFacts": [
+      "Earth spins, so it bulges slightly at the equator.",
+      "A globe shows Earth’s round shape, but its size is much smaller than the real planet."
+    ],
+    "quiz": {
+      "question": "What pulls Earth’s material toward its center?",
+      "answers": [
+        "Gravity",
+        "Moonlight",
+        "Wind",
+        "Sound"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_001",
+      "earth_003",
+      "earth_004",
+      "earth_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "earth",
+      "gravity",
+      "planet"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "earth_003",
+    "categoryId": "earth",
+    "question": "Why do volcanoes erupt?",
+    "shortAnswer": "Deep inside Earth, heat melts some rock into magma. Pressure can push this hot material and gas through cracks in the crust until it reaches the surface.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Rock melts underground",
+        "text": "Heat inside Earth can turn some rock into liquid magma."
+      },
+      {
+        "title": "Pressure builds",
+        "text": "Magma and trapped gases push against the rocks above them."
+      },
+      {
+        "title": "Magma reaches the surface",
+        "text": "When it finds a path, it erupts as lava, ash, and gas."
+      }
+    ],
+    "funFacts": [
+      "Magma is called lava after it reaches Earth’s surface.",
+      "Volcanic ash is made of tiny pieces of rock and glass, not soft fireplace ash."
+    ],
+    "quiz": {
+      "question": "What is magma called after it reaches the surface?",
+      "answers": [
+        "Lava",
+        "Frost",
+        "Cloud",
+        "Clay"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_001",
+      "earth_002",
+      "earth_004",
+      "earth_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "volcano",
+      "magma",
+      "lava"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "earth_004",
+    "categoryId": "earth",
+    "question": "Why does Earth have day and night?",
+    "shortAnswer": "Earth spins like a top. The side facing the Sun has daytime, while the side turned away from the Sun has nighttime.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Earth spins",
+        "text": "Our planet rotates around an imaginary line called its axis."
+      },
+      {
+        "title": "One side faces the Sun",
+        "text": "That side receives sunlight and has day."
+      },
+      {
+        "title": "The other side turns away",
+        "text": "That side is dark until Earth spins it back into sunlight."
+      }
+    ],
+    "funFacts": [
+      "One full Earth rotation takes about 24 hours.",
+      "Day and night happen at the same time in different places on Earth."
+    ],
+    "quiz": {
+      "question": "What causes day and night?",
+      "answers": [
+        "Earth spinning",
+        "The Moon turning off the Sun",
+        "Clouds moving",
+        "Earth changing size"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_001",
+      "earth_002",
+      "earth_003",
+      "earth_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "earth",
+      "day",
+      "night"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "earth_005",
+    "categoryId": "earth",
+    "question": "Why do we have seasons?",
+    "shortAnswer": "Earth’s axis is tilted. As Earth travels around the Sun, each half of the planet takes turns leaning toward the Sun and receiving more direct sunlight.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Earth is tilted",
+        "text": "Earth’s axis leans instead of standing perfectly straight."
+      },
+      {
+        "title": "Earth travels around the Sun",
+        "text": "Our planet takes about one year to complete its path."
+      },
+      {
+        "title": "Sunlight changes",
+        "text": "A tilted half gets more direct, longer-lasting sunlight and has summer."
+      }
+    ],
+    "funFacts": [
+      "The seasons are not mainly caused by Earth being closer to the Sun.",
+      "When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere."
+    ],
+    "quiz": {
+      "question": "What is the main reason Earth has seasons?",
+      "answers": [
+        "Earth’s tilted axis",
+        "The Moon changing color",
+        "Clouds moving south",
+        "The Sun getting smaller"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_001",
+      "earth_002",
+      "earth_003",
+      "earth_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "earth",
+      "seasons",
+      "tilt"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "weather_001",
+    "categoryId": "weather",
+    "question": "Why do rainbows appear?",
+    "shortAnswer": "A rainbow appears when sunlight passes through raindrops. The drops bend, reflect, and spread the light into the colors we can see.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Light enters a raindrop",
+        "text": "The drop bends sunlight as it travels from air into water."
+      },
+      {
+        "title": "Colors separate",
+        "text": "Different colors bend by slightly different amounts."
+      },
+      {
+        "title": "Light reaches our eyes",
+        "text": "The separated colors form an arc when the Sun is behind us and rain is ahead."
+      }
+    ],
+    "funFacts": [
+      "A rainbow is actually a full circle, but the ground often hides the lower part.",
+      "Every person sees a slightly different rainbow because it depends on their viewing angle."
+    ],
+    "quiz": {
+      "question": "What helps separate sunlight into rainbow colors?",
+      "answers": [
+        "Raindrops",
+        "Dry sand",
+        "Moon rocks",
+        "Thunder"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "weather_002",
+      "weather_003",
+      "weather_004",
+      "weather_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "rainbow",
+      "rain",
+      "light"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "weather_002",
+    "categoryId": "weather",
+    "question": "Why does thunder happen?",
+    "shortAnswer": "Lightning heats the air around it extremely quickly. The hot air expands with a loud shock wave that we hear as thunder.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A lightning channel heats air",
+        "text": "The electrical spark makes a narrow path much hotter than the surrounding air."
+      },
+      {
+        "title": "The air expands fast",
+        "text": "Hot air pushes outward suddenly."
+      },
+      {
+        "title": "A sound wave travels",
+        "text": "That rapid push creates the rumbling sound called thunder."
+      }
+    ],
+    "funFacts": [
+      "You see lightning before hearing thunder because light travels faster than sound.",
+      "Thunder can rumble when sound waves bounce from clouds or hills."
+    ],
+    "quiz": {
+      "question": "What makes the sound of thunder?",
+      "answers": [
+        "Air expanding quickly around lightning",
+        "Rain freezing",
+        "The Sun ringing",
+        "Clouds rubbing together"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "weather_001",
+      "weather_003",
+      "weather_004",
+      "weather_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "thunder",
+      "lightning",
+      "sound"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "weather_003",
+    "categoryId": "weather",
+    "question": "Why are clouds fluffy?",
+    "shortAnswer": "Clouds are collections of tiny water drops or ice crystals floating in air. Their edges look fluffy because rising and moving air shapes the groups of droplets.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Water vapor rises",
+        "text": "Warm air carries invisible water vapor upward."
+      },
+      {
+        "title": "The vapor cools",
+        "text": "Cooling changes some vapor into tiny drops or ice crystals."
+      },
+      {
+        "title": "Air shapes the cloud",
+        "text": "Moving air pushes the drops into soft, changing shapes."
+      }
+    ],
+    "funFacts": [
+      "Some clouds are thin and smooth instead of fluffy.",
+      "A cloud can hold a lot of water even though each drop is tiny."
+    ],
+    "quiz": {
+      "question": "What are most clouds made of?",
+      "answers": [
+        "Tiny water drops or ice crystals",
+        "Cotton",
+        "Smoke from stars",
+        "Dry leaves"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "weather_001",
+      "weather_002",
+      "weather_004",
+      "weather_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "clouds",
+      "water",
+      "weather"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "weather_004",
+    "categoryId": "weather",
+    "question": "Why does snow have flakes?",
+    "shortAnswer": "Snowflakes form when water vapor freezes into ice crystals in cold clouds. The crystals grow as more water vapor joins them, making their branching shapes.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Water vapor freezes",
+        "text": "In a cold cloud, vapor can turn directly into tiny ice crystals."
+      },
+      {
+        "title": "The crystal grows",
+        "text": "More vapor freezes onto the crystal and builds branches."
+      },
+      {
+        "title": "The flake falls",
+        "text": "When it becomes heavy, the snowflake drifts down through the air."
+      }
+    ],
+    "funFacts": [
+      "Snowflakes often have six main arms because of the way water molecules arrange in ice.",
+      "A snowflake’s path through different temperatures affects its final shape."
+    ],
+    "quiz": {
+      "question": "What do snowflakes begin as inside cold clouds?",
+      "answers": [
+        "Ice crystals",
+        "Warm sand",
+        "Tiny leaves",
+        "Bubbles of oil"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "weather_001",
+      "weather_002",
+      "weather_003",
+      "weather_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "snow",
+      "flakes",
+      "ice"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "weather_005",
+    "categoryId": "weather",
+    "question": "Why does wind blow?",
+    "shortAnswer": "Wind is moving air. The Sun warms different parts of Earth by different amounts, creating pressure differences that make air move from one place to another.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The Sun warms Earth unevenly",
+        "text": "Land, water, hills, and cities heat up at different speeds."
+      },
+      {
+        "title": "Pressure changes",
+        "text": "Warm air rises, leaving areas with different air pressure."
+      },
+      {
+        "title": "Air moves",
+        "text": "Air flows toward areas of lower pressure, and we feel that movement as wind."
+      }
+    ],
+    "funFacts": [
+      "Wind can carry seeds, clouds, and the smell of flowers.",
+      "A breeze near the sea can change direction between day and night."
+    ],
+    "quiz": {
+      "question": "What is wind?",
+      "answers": [
+        "Moving air",
+        "Falling sunlight",
+        "A type of cloud",
+        "Frozen rain"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "weather_001",
+      "weather_002",
+      "weather_003",
+      "weather_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "wind",
+      "air",
+      "pressure"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "nature_001",
+    "categoryId": "nature",
+    "question": "Why are plants green?",
+    "shortAnswer": "Plants contain chlorophyll, a green pigment that helps capture sunlight for photosynthesis. Chlorophyll reflects green light, so our eyes see leaves as green.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Leaves catch sunlight",
+        "text": "Chlorophyll inside leaf cells absorbs light energy."
+      },
+      {
+        "title": "Plants make food",
+        "text": "That energy helps plants turn water and carbon dioxide into sugar."
+      },
+      {
+        "title": "Green light bounces back",
+        "text": "Chlorophyll uses some colors more than green, so green light reaches our eyes."
+      }
+    ],
+    "funFacts": [
+      "Some plants have red, purple, or yellow pigments too.",
+      "Photosynthesis also releases oxygen into the air."
+    ],
+    "quiz": {
+      "question": "What pigment makes most leaves look green?",
+      "answers": [
+        "Chlorophyll",
+        "Keratin",
+        "Melanin",
+        "Calcium"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "nature_002",
+      "nature_003",
+      "nature_004",
+      "nature_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "plants",
+      "green",
+      "chlorophyll"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "nature_002",
+    "categoryId": "nature",
+    "question": "Why do leaves change color?",
+    "shortAnswer": "In autumn, shorter days and cooler temperatures tell many trees to stop making chlorophyll. Green fades, revealing yellow and orange pigments that were already in the leaves.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Days become shorter",
+        "text": "Trees receive less sunlight as the season changes."
+      },
+      {
+        "title": "Chlorophyll breaks down",
+        "text": "The tree stops making as much of the green pigment."
+      },
+      {
+        "title": "Other colors show",
+        "text": "Yellow, orange, and sometimes red pigments become easier to see."
+      }
+    ],
+    "funFacts": [
+      "Some evergreen trees keep their leaves for several years.",
+      "Red leaf color can be made when a tree produces a new pigment in autumn."
+    ],
+    "quiz": {
+      "question": "What fades first in many autumn leaves?",
+      "answers": [
+        "Green chlorophyll",
+        "The leaf’s veins",
+        "All water in the tree",
+        "The tree’s roots"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "nature_001",
+      "nature_003",
+      "nature_004",
+      "nature_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "leaves",
+      "autumn",
+      "trees"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "nature_003",
+    "categoryId": "nature",
+    "question": "Why do flowers smell?",
+    "shortAnswer": "Flowers make scents from special chemicals. Their smells can attract pollinators such as bees and moths, or sometimes discourage animals that might eat them.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A flower makes scent chemicals",
+        "text": "These chemicals travel through the air."
+      },
+      {
+        "title": "Animals notice the smell",
+        "text": "Pollinators use scent to find flowers with nectar or pollen."
+      },
+      {
+        "title": "Pollen gets carried",
+        "text": "As an animal visits, pollen can move to another flower."
+      }
+    ],
+    "funFacts": [
+      "Some flowers smell strongest at night to attract moths and bats.",
+      "Not all flower smells are pleasant to humans; plants have different visitors."
+    ],
+    "quiz": {
+      "question": "Why can a flower’s smell be useful?",
+      "answers": [
+        "It can attract pollinators",
+        "It makes the flower heavier",
+        "It stops sunlight",
+        "It turns pollen blue"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "nature_001",
+      "nature_002",
+      "nature_004",
+      "nature_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "flowers",
+      "smell",
+      "pollination"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "nature_004",
+    "categoryId": "nature",
+    "question": "Why do trees have rings?",
+    "shortAnswer": "Many trees add a new layer of wood each year. A light layer often grows during fast spring growth, while a darker, denser layer forms during slower growth later in the year.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A tree grows outward",
+        "text": "New wood forms under the bark as the tree gets taller and wider."
+      },
+      {
+        "title": "Growth changes with seasons",
+        "text": "Warm, wet months can make lighter wood; slower months make darker wood."
+      },
+      {
+        "title": "Layers record time",
+        "text": "The repeating layers can help show how old the tree was."
+      }
+    ],
+    "funFacts": [
+      "A tree ring can also show years of drought or unusually wet weather.",
+      "Not every tree makes clear yearly rings in the same way."
+    ],
+    "quiz": {
+      "question": "What can tree rings often tell us?",
+      "answers": [
+        "How many growth years a tree had",
+        "What a tree ate",
+        "Which bird built its nest",
+        "How fast clouds moved"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "nature_001",
+      "nature_002",
+      "nature_003",
+      "nature_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "trees",
+      "rings",
+      "growth"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "nature_005",
+    "categoryId": "nature",
+    "question": "Why do mushrooms appear after rain?",
+    "shortAnswer": "Mushrooms are the visible parts of fungi. After rain, the ground is moist, so fungi can grow and release spores that may start new fungi.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Fungi live in the soil",
+        "text": "Most of a fungus is a network of tiny threads hidden underground or in wood."
+      },
+      {
+        "title": "Moisture helps growth",
+        "text": "Rain gives the fungus water to build its fruiting body."
+      },
+      {
+        "title": "The mushroom releases spores",
+        "text": "Spores spread through air or animals and help fungi reproduce."
+      }
+    ],
+    "funFacts": [
+      "A mushroom is not a plant; fungi are their own group of living things.",
+      "The biggest part of some fungi is hidden underground."
+    ],
+    "quiz": {
+      "question": "What is a mushroom?",
+      "answers": [
+        "The visible part of a fungus",
+        "A young tree",
+        "A kind of cloud",
+        "A flower seed"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "nature_001",
+      "nature_002",
+      "nature_003",
+      "nature_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "mushrooms",
+      "fungi",
+      "rain"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "oceans_001",
+    "categoryId": "oceans",
+    "question": "Why is ocean water salty?",
+    "shortAnswer": "Rain and rivers slowly carry tiny minerals and salts from rocks into the sea. Water evaporates, but most salt stays behind, so it builds up over a very long time.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Rocks release minerals",
+        "text": "Rainwater wears rocks down and dissolves tiny amounts of salt."
+      },
+      {
+        "title": "Rivers carry salt to the ocean",
+        "text": "Streams and rivers move those minerals downhill."
+      },
+      {
+        "title": "Water evaporates",
+        "text": "Sunlight turns water into vapor, but salt stays in the sea."
+      }
+    ],
+    "funFacts": [
+      "The saltiness of different seas is not exactly the same.",
+      "Ocean salt helps make seawater denser than fresh water."
+    ],
+    "quiz": {
+      "question": "Why does salt remain when ocean water evaporates?",
+      "answers": [
+        "Salt does not evaporate with the water",
+        "Salt turns into clouds",
+        "Rivers take it back",
+        "The Moon freezes it"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "oceans_002",
+      "oceans_003",
+      "oceans_004",
+      "oceans_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "ocean",
+      "salt",
+      "water"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "oceans_002",
+    "categoryId": "oceans",
+    "question": "Why do tides rise and fall?",
+    "shortAnswer": "The Moon’s gravity pulls on Earth’s oceans, creating bulges of water. As Earth turns, coastlines move through these bulges and experience high and low tides.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The Moon pulls",
+        "text": "Gravity from the Moon tugs on ocean water."
+      },
+      {
+        "title": "Water bulges form",
+        "text": "Water shifts slightly toward and away from the Moon."
+      },
+      {
+        "title": "Earth turns",
+        "text": "As a coastline moves through the bulges, its tide rises and falls."
+      }
+    ],
+    "funFacts": [
+      "The Sun’s gravity also affects tides.",
+      "Most coasts have about two high tides and two low tides each day, but local patterns differ."
+    ],
+    "quiz": {
+      "question": "What is the biggest cause of Earth’s ocean tides?",
+      "answers": [
+        "The Moon’s gravity",
+        "Cloud shadows",
+        "Fish swimming",
+        "Ocean salt"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "oceans_001",
+      "oceans_003",
+      "oceans_004",
+      "oceans_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "tides",
+      "moon",
+      "gravity"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "oceans_003",
+    "categoryId": "oceans",
+    "question": "Why do whales come up for air?",
+    "shortAnswer": "Whales are mammals, so they breathe air with lungs. They must come to the surface to breathe through blowholes instead of taking oxygen from water like fish do.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Whales have lungs",
+        "text": "Their lungs take oxygen from air, not from water."
+      },
+      {
+        "title": "A whale reaches the surface",
+        "text": "It swims upward when it needs a new breath."
+      },
+      {
+        "title": "Air leaves the blowhole",
+        "text": "Warm breath and water droplets can make the spout we see."
+      }
+    ],
+    "funFacts": [
+      "A whale’s blowhole is on top of its head, so it can breathe without lifting its whole body.",
+      "Whales can hold their breath for different lengths of time depending on the species."
+    ],
+    "quiz": {
+      "question": "Why must whales surface?",
+      "answers": [
+        "They breathe air with lungs",
+        "They need to drink clouds",
+        "They are trying to fly",
+        "They cannot move underwater"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "oceans_001",
+      "oceans_002",
+      "oceans_004",
+      "oceans_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "whales",
+      "mammals",
+      "breathing"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "oceans_004",
+    "categoryId": "oceans",
+    "question": "Why are coral reefs colorful?",
+    "shortAnswer": "Coral reefs get their colors from tiny algae living inside coral and from the many animals around them. The algae provide food while coral provides a safe place to live.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Tiny algae live with coral",
+        "text": "The algae use sunlight to make food."
+      },
+      {
+        "title": "The algae add color",
+        "text": "Their pigments help give coral its bright greens, browns, pinks, and yellows."
+      },
+      {
+        "title": "Many animals join the reef",
+        "text": "Fish and other creatures add even more colors and shapes."
+      }
+    ],
+    "funFacts": [
+      "Coral is made by tiny animals called polyps, not by rocks or plants.",
+      "Warm water stress can make coral lose its algae and turn pale, a process called bleaching."
+    ],
+    "quiz": {
+      "question": "What helps give many corals their color?",
+      "answers": [
+        "Tiny algae living with them",
+        "Ocean sand only",
+        "Moonlight",
+        "Whale songs"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "oceans_001",
+      "oceans_002",
+      "oceans_003",
+      "oceans_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "coral",
+      "reef",
+      "algae"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "oceans_005",
+    "categoryId": "oceans",
+    "question": "Why can fish breathe underwater?",
+    "shortAnswer": "Fish use gills to take oxygen dissolved in water. As water flows over the gills, oxygen moves into the fish’s blood and carbon dioxide moves out.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Water enters the mouth",
+        "text": "A fish draws water in as it opens its mouth."
+      },
+      {
+        "title": "Water passes over gills",
+        "text": "Thin gill surfaces have many blood vessels."
+      },
+      {
+        "title": "Gases move",
+        "text": "Oxygen enters the blood while carbon dioxide leaves it."
+      }
+    ],
+    "funFacts": [
+      "Water contains much less oxygen than air, so gills need a large surface area.",
+      "Some fish must keep swimming to move water over their gills."
+    ],
+    "quiz": {
+      "question": "What do fish use to take oxygen from water?",
+      "answers": [
+        "Gills",
+        "Feathers",
+        "Fur",
+        "Roots"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "oceans_001",
+      "oceans_002",
+      "oceans_003",
+      "oceans_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "fish",
+      "gills",
+      "oxygen"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "science_001",
+    "categoryId": "science",
+    "question": "Why do magnets attract some metals?",
+    "shortAnswer": "A magnet has an invisible magnetic field. In metals such as iron and steel, tiny magnetic parts can line up with that field, creating a pull.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A field surrounds the magnet",
+        "text": "The field is an invisible region where magnetic forces act."
+      },
+      {
+        "title": "Some materials respond",
+        "text": "Iron and a few other metals have tiny magnetic regions that can line up."
+      },
+      {
+        "title": "The magnet pulls",
+        "text": "The lined-up regions make the object move toward the magnet."
+      }
+    ],
+    "funFacts": [
+      "Magnets can push as well as pull when the same poles face each other.",
+      "Most metals, such as copper and aluminum, are not strongly attracted to ordinary magnets."
+    ],
+    "quiz": {
+      "question": "Which metal is commonly attracted to a magnet?",
+      "answers": [
+        "Iron",
+        "Glass",
+        "Wood",
+        "Paper"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "science_002",
+      "science_003",
+      "science_004",
+      "science_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "magnets",
+      "metal",
+      "force"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "science_002",
+    "categoryId": "science",
+    "question": "Why are bubbles round?",
+    "shortAnswer": "A bubble’s thin soap film pulls inward in every direction. A sphere is the shape that holds the same amount of air with the least surface, so bubbles naturally become round.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Soap makes a flexible film",
+        "text": "The film wraps around air and has surface tension."
+      },
+      {
+        "title": "The film pulls evenly",
+        "text": "Surface tension tries to shrink the film from every side."
+      },
+      {
+        "title": "A sphere forms",
+        "text": "The smallest surface around the trapped air is a round shape."
+      }
+    ],
+    "funFacts": [
+      "Bubbles can join together and make flat walls where they touch.",
+      "A bubble’s rainbow colors come from light reflecting inside its thin film."
+    ],
+    "quiz": {
+      "question": "Why does a free-floating bubble become round?",
+      "answers": [
+        "Its film pulls evenly inward",
+        "Air paints it",
+        "Soap is heavy",
+        "The bubble has corners"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "science_001",
+      "science_003",
+      "science_004",
+      "science_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "bubbles",
+      "soap",
+      "surface tension"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "science_003",
+    "categoryId": "science",
+    "question": "Why does ice float?",
+    "shortAnswer": "Ice floats because frozen water takes up more space than liquid water. That makes ice less dense, so the denser liquid water can push it upward.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Water molecules spread out",
+        "text": "When water freezes, its molecules lock into an open pattern."
+      },
+      {
+        "title": "The same water fills more space",
+        "text": "The open pattern makes solid ice less dense than liquid water."
+      },
+      {
+        "title": "Water pushes it up",
+        "text": "A less-dense object can float in a denser liquid."
+      }
+    ],
+    "funFacts": [
+      "Most substances become denser when they freeze, but water is unusual.",
+      "Floating ice helps keep the water below it from freezing as quickly."
+    ],
+    "quiz": {
+      "question": "Why can ice float on water?",
+      "answers": [
+        "Ice is less dense than liquid water",
+        "Ice is warmer than water",
+        "Ice has no molecules",
+        "Water pulls it down"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "science_001",
+      "science_002",
+      "science_004",
+      "science_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "ice",
+      "water",
+      "density"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "science_004",
+    "categoryId": "science",
+    "question": "Why do shadows form?",
+    "shortAnswer": "A shadow forms when an object blocks light. The object stops light from reaching the space behind it, leaving a darker shape on a surface.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Light travels outward",
+        "text": "A lamp or the Sun sends light in many directions."
+      },
+      {
+        "title": "An object blocks some rays",
+        "text": "The object gets between the light source and a surface."
+      },
+      {
+        "title": "A dark shape appears",
+        "text": "The blocked area receives less light and looks like a shadow."
+      }
+    ],
+    "funFacts": [
+      "A shadow changes size when the object moves closer to or farther from the light.",
+      "Transparent materials let much more light through and make faint shadows."
+    ],
+    "quiz": {
+      "question": "What makes a shadow?",
+      "answers": [
+        "An object blocking light",
+        "A sound wave",
+        "A cold breeze",
+        "A magnet pulling air"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "science_001",
+      "science_002",
+      "science_003",
+      "science_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "shadows",
+      "light",
+      "science"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "science_005",
+    "categoryId": "science",
+    "question": "Why does iron rust?",
+    "shortAnswer": "Iron rusts when it reacts with oxygen and water. The reaction makes a new flaky material called iron oxide, which is the reddish-brown rust we see.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Water reaches the iron",
+        "text": "Moisture helps move particles across the metal surface."
+      },
+      {
+        "title": "Oxygen reacts",
+        "text": "Oxygen from the air combines with iron."
+      },
+      {
+        "title": "Rust grows",
+        "text": "Iron oxide forms and can flake away, exposing more iron underneath."
+      }
+    ],
+    "funFacts": [
+      "Salt water usually makes iron rust faster.",
+      "Paint and oil can help keep water and oxygen away from iron."
+    ],
+    "quiz": {
+      "question": "What does iron need to rust?",
+      "answers": [
+        "Oxygen and water",
+        "Only moonlight",
+        "Sugar and sound",
+        "Snow and paper"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "science_001",
+      "science_002",
+      "science_003",
+      "science_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "rust",
+      "iron",
+      "oxygen"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "technology_001",
+    "categoryId": "technology",
+    "question": "Why do touchscreens respond to fingers?",
+    "shortAnswer": "Many touchscreens sense a tiny change in an electrical field when a finger touches the glass. The device measures the change and turns it into a tap or swipe.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The screen has a small electrical field",
+        "text": "A touch layer keeps track of electrical charge across the glass."
+      },
+      {
+        "title": "A finger changes the field",
+        "text": "Your body conducts electricity and changes the charge at the touch point."
+      },
+      {
+        "title": "Software finds the touch",
+        "text": "The device calculates where the change happened and responds."
+      }
+    ],
+    "funFacts": [
+      "Gloves may not work on some touchscreens because they block the electrical connection.",
+      "The glass does not know what you want; software decides what a tap should do."
+    ],
+    "quiz": {
+      "question": "What can a finger change on a touch screen?",
+      "answers": [
+        "A small electrical field",
+        "The screen’s color forever",
+        "The phone’s battery size",
+        "The glass into water"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "technology_002",
+      "technology_003",
+      "technology_004",
+      "technology_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "touchscreen",
+      "technology",
+      "electricity"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "technology_002",
+    "categoryId": "technology",
+    "question": "Why do batteries run out?",
+    "shortAnswer": "A battery stores energy in chemicals. When a device is on, chemical reactions make electricity. After many reactions, the chemicals can no longer provide enough energy until the battery is recharged or replaced.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A reaction releases energy",
+        "text": "Chemicals inside the battery move charged particles through the circuit."
+      },
+      {
+        "title": "The device uses electricity",
+        "text": "The energy powers lights, sounds, motors, or the screen."
+      },
+      {
+        "title": "The chemicals change",
+        "text": "After enough reactions, the battery has less useful stored energy."
+      }
+    ],
+    "funFacts": [
+      "Rechargeable batteries can repeat the reaction many times.",
+      "Cold temperatures can make a battery seem to run down faster."
+    ],
+    "quiz": {
+      "question": "What does a battery store?",
+      "answers": [
+        "Chemical energy",
+        "Rainwater",
+        "A tiny flame",
+        "Sound waves"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "technology_001",
+      "technology_003",
+      "technology_004",
+      "technology_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "batteries",
+      "energy",
+      "technology"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "technology_003",
+    "categoryId": "technology",
+    "question": "Why are bridges strong?",
+    "shortAnswer": "Bridges spread weight through carefully shaped parts such as beams, arches, cables, and supports. Engineers choose materials and shapes that can handle pulling, pushing, and bending forces.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Weight creates forces",
+        "text": "People, cars, wind, and the bridge itself all push or pull on its parts."
+      },
+      {
+        "title": "The structure shares the load",
+        "text": "Beams and cables move forces toward supports and the ground."
+      },
+      {
+        "title": "Engineers test the design",
+        "text": "Models and calculations help check that the bridge can stay safe."
+      }
+    ],
+    "funFacts": [
+      "Triangles are useful in many strong structures because they keep their shape.",
+      "A bridge can be strong without being completely solid; smart shapes save material."
+    ],
+    "quiz": {
+      "question": "What helps a bridge carry weight?",
+      "answers": [
+        "Parts that spread forces to supports",
+        "Making it out of clouds",
+        "Removing all supports",
+        "Using only paper"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "technology_001",
+      "technology_002",
+      "technology_004",
+      "technology_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "bridges",
+      "engineering",
+      "forces"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "technology_004",
+    "categoryId": "technology",
+    "question": "Why do computers use 0 and 1?",
+    "shortAnswer": "Computers use tiny switches that can be off or on. These two states are represented as 0 and 1, called binary, and can be combined to store numbers, words, pictures, and instructions.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A switch has two simple states",
+        "text": "An electronic part can represent off or on."
+      },
+      {
+        "title": "The states become binary",
+        "text": "Computers write off as 0 and on as 1."
+      },
+      {
+        "title": "Groups carry information",
+        "text": "Long patterns of 0s and 1s can represent many kinds of data."
+      }
+    ],
+    "funFacts": [
+      "A single binary digit is called a bit.",
+      "Computers use many more symbols than just one 0 or one 1 by grouping bits together."
+    ],
+    "quiz": {
+      "question": "What does binary use?",
+      "answers": [
+        "Patterns of 0 and 1",
+        "Only letters",
+        "Seven colors",
+        "Piles of paper"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "technology_001",
+      "technology_002",
+      "technology_003",
+      "technology_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "computers",
+      "binary",
+      "technology"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "technology_005",
+    "categoryId": "technology",
+    "question": "Why do wheels make moving easier?",
+    "shortAnswer": "A wheel rolls across a surface, replacing much of the rubbing that happens when an object slides. Less friction means a smaller push can move the object.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Sliding creates friction",
+        "text": "Two surfaces rubbing against each other resist movement."
+      },
+      {
+        "title": "A wheel turns",
+        "text": "The contact point keeps changing as the wheel rolls."
+      },
+      {
+        "title": "Less force is wasted",
+        "text": "Rolling usually needs less pushing than dragging the same load."
+      }
+    ],
+    "funFacts": [
+      "Wheels still have friction, which helps them grip the ground.",
+      "Bearings help wheels turn smoothly around an axle."
+    ],
+    "quiz": {
+      "question": "What do wheels reduce when they roll?",
+      "answers": [
+        "The rubbing friction of sliding",
+        "The object’s weight",
+        "The need for gravity",
+        "The length of a road"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "technology_001",
+      "technology_002",
+      "technology_003",
+      "technology_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "wheels",
+      "friction",
+      "movement"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "food_001",
+    "categoryId": "food",
+    "question": "Why does bread rise?",
+    "shortAnswer": "Yeast in dough eats some sugar and makes carbon dioxide gas. Tiny bubbles of that gas get trapped in the stretchy dough, making it expand as bread rises.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Yeast uses sugar",
+        "text": "Living yeast cells break down sugar for energy."
+      },
+      {
+        "title": "Gas bubbles form",
+        "text": "The process produces carbon dioxide gas."
+      },
+      {
+        "title": "Dough holds the bubbles",
+        "text": "Gluten in the dough stretches around the bubbles and makes the loaf larger."
+      }
+    ],
+    "funFacts": [
+      "Heat in the oven makes trapped gas expand and helps set the bread’s shape.",
+      "Sourdough bread rises with wild yeast and helpful bacteria."
+    ],
+    "quiz": {
+      "question": "What gas helps bread dough rise?",
+      "answers": [
+        "Carbon dioxide",
+        "Oxygen only",
+        "Helium",
+        "Water vapor from ice"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "food_002",
+      "food_003",
+      "food_004",
+      "food_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "bread",
+      "yeast",
+      "baking"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "food_002",
+    "categoryId": "food",
+    "question": "Why does popcorn pop?",
+    "shortAnswer": "A popcorn kernel contains a little water inside a hard shell. Heating turns the water into steam, pressure builds, and the shell bursts so the soft inside puffs into popcorn.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The kernel heats",
+        "text": "Water inside the kernel turns into steam."
+      },
+      {
+        "title": "Pressure builds",
+        "text": "The hard hull holds the steam in as it pushes outward."
+      },
+      {
+        "title": "The hull bursts",
+        "text": "The hot starch expands quickly and turns the kernel inside out."
+      }
+    ],
+    "funFacts": [
+      "Popcorn kernels need enough moisture to pop well.",
+      "The white puff is mostly expanded starch, not a new kind of food."
+    ],
+    "quiz": {
+      "question": "What builds up inside a popcorn kernel?",
+      "answers": [
+        "Steam pressure",
+        "Cold air",
+        "Sand",
+        "Liquid metal"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "food_001",
+      "food_003",
+      "food_004",
+      "food_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "popcorn",
+      "steam",
+      "food"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "food_003",
+    "categoryId": "food",
+    "question": "Why do apples turn brown after being cut?",
+    "shortAnswer": "Cutting an apple lets oxygen from the air reach chemicals inside its cells. An enzyme helps those chemicals react and form brown pigments.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The skin is opened",
+        "text": "A cut breaks cells that normally keep oxygen out."
+      },
+      {
+        "title": "Oxygen reaches the inside",
+        "text": "Air mixes with the apple’s cell chemicals."
+      },
+      {
+        "title": "Brown pigments form",
+        "text": "An enzyme speeds up the reaction that changes the color."
+      }
+    ],
+    "funFacts": [
+      "Lemon juice can slow browning because its acidity affects the enzyme.",
+      "Browning does not usually mean the apple has become unsafe right away."
+    ],
+    "quiz": {
+      "question": "What starts the browning reaction in a cut apple?",
+      "answers": [
+        "Oxygen reaching the cells",
+        "Moonlight",
+        "Freezing the skin",
+        "Adding sugar"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "food_001",
+      "food_002",
+      "food_004",
+      "food_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "apples",
+      "browning",
+      "oxygen"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "food_004",
+    "categoryId": "food",
+    "question": "Why does spicy food feel hot?",
+    "shortAnswer": "Spicy peppers contain chemicals such as capsaicin. These chemicals activate heat-sensing nerves in your mouth, so your brain receives a hot or burning feeling even when the food is not actually hot.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Capsaicin touches nerves",
+        "text": "The pepper chemical fits onto heat-sensing receptors."
+      },
+      {
+        "title": "Nerves send a signal",
+        "text": "Those receptors send a message through nerves to the brain."
+      },
+      {
+        "title": "The brain reads heat",
+        "text": "Your brain interprets the signal as burning or warmth."
+      }
+    ],
+    "funFacts": [
+      "Milk can help wash capsaicin away better than water because it contains fat and special proteins.",
+      "Capsaicin is not the same as the heat from a hot pan."
+    ],
+    "quiz": {
+      "question": "What makes a pepper feel hot?",
+      "answers": [
+        "Capsaicin activating heat-sensing nerves",
+        "The pepper containing tiny flames",
+        "Cold water",
+        "Sugar crystals"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "food_001",
+      "food_002",
+      "food_003",
+      "food_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "spicy",
+      "peppers",
+      "capsaicin"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "food_005",
+    "categoryId": "food",
+    "question": "Why does bread get hard?",
+    "shortAnswer": "As bread sits, water moves from the soft middle into the starch structure and sometimes escapes into the air. The starch changes shape, making the bread feel firmer and drier.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Bread cools and rests",
+        "text": "The water inside the loaf begins moving between its ingredients."
+      },
+      {
+        "title": "Starch rearranges",
+        "text": "Starch molecules form a firmer structure over time."
+      },
+      {
+        "title": "The crumb feels stale",
+        "text": "Less flexible starch and lost moisture make the bread harder."
+      }
+    ],
+    "funFacts": [
+      "Keeping bread sealed can slow moisture loss but cannot stop staling forever.",
+      "Warming stale bread can make it feel softer for a short time."
+    ],
+    "quiz": {
+      "question": "What can make bread become hard over time?",
+      "answers": [
+        "Starch changing and moisture moving",
+        "The bread growing bones",
+        "Sunlight turning it to stone",
+        "Salt making it magnetic"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "food_001",
+      "food_002",
+      "food_003",
+      "food_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "bread",
+      "stale",
+      "food"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "everyday_001",
+    "categoryId": "everyday_life",
+    "question": "Why does soap help clean our hands?",
+    "shortAnswer": "Soap molecules have one end that mixes with water and another that grabs oils and dirt. When you rub and rinse, soap helps lift germs and grime away from your skin.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Soap grabs oily dirt",
+        "text": "One end of a soap molecule sticks to oils and grime."
+      },
+      {
+        "title": "Water surrounds the soap",
+        "text": "The other end mixes with water and helps carry the dirt."
+      },
+      {
+        "title": "Rubbing and rinsing remove it",
+        "text": "Friction lifts particles while running water washes them away."
+      }
+    ],
+    "funFacts": [
+      "Washing with soap and water works better than water alone for oily dirt.",
+      "Good handwashing includes the backs of hands, between fingers, and under nails."
+    ],
+    "quiz": {
+      "question": "What does soap help lift from skin?",
+      "answers": [
+        "Oils and dirt",
+        "Bones",
+        "Sunlight",
+        "Fingerprints forever"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "everyday_002",
+      "everyday_003",
+      "everyday_004",
+      "everyday_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "soap",
+      "hands",
+      "cleaning"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "everyday_002",
+    "categoryId": "everyday_life",
+    "question": "Why do we need sleep?",
+    "shortAnswer": "Sleep gives your body and brain time to rest, repair, and organize information. While you sleep, your brain processes memories and your body supports growth and healthy immune defenses.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The brain sorts experiences",
+        "text": "Sleep helps the brain strengthen useful memories and clear some waste."
+      },
+      {
+        "title": "The body repairs",
+        "text": "Cells and muscles get time for important maintenance."
+      },
+      {
+        "title": "You wake ready",
+        "text": "Enough sleep supports attention, mood, learning, and energy."
+      }
+    ],
+    "funFacts": [
+      "Children usually need more sleep than adults because their bodies and brains are growing.",
+      "A regular bedtime can help your body know when it is time to rest."
+    ],
+    "quiz": {
+      "question": "What can sleep help your brain do?",
+      "answers": [
+        "Process memories",
+        "Stop needing food",
+        "Turn bones into muscle",
+        "See through walls"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "everyday_001",
+      "everyday_003",
+      "everyday_004",
+      "everyday_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": true,
+    "difficulty": "easy",
+    "keywords": [
+      "sleep",
+      "brain",
+      "health"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "everyday_003",
+    "categoryId": "everyday_life",
+    "question": "Why do zippers get stuck?",
+    "shortAnswer": "A zipper can stick when its teeth are misaligned, fabric gets caught, or the slider is bent. Moving it gently and checking the fabric can help without damaging the zipper.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Teeth need to meet",
+        "text": "The slider works best when the two rows of teeth line up."
+      },
+      {
+        "title": "Fabric can get trapped",
+        "text": "A loose thread or nearby cloth may catch inside the slider."
+      },
+      {
+        "title": "The slider needs gentle motion",
+        "text": "Pulling hard can bend parts, so small careful movements are safer."
+      }
+    ],
+    "funFacts": [
+      "A tiny amount of pencil graphite can sometimes help a dry zipper slide.",
+      "Forcing a stuck zipper can pull teeth out of alignment."
+    ],
+    "quiz": {
+      "question": "What can make a zipper stick?",
+      "answers": [
+        "Misaligned teeth or trapped fabric",
+        "A bright color",
+        "The zipper being made of air",
+        "A quiet room"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "everyday_001",
+      "everyday_002",
+      "everyday_004",
+      "everyday_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "zippers",
+      "clothes",
+      "everyday"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "everyday_004",
+    "categoryId": "everyday_life",
+    "question": "Why do mirrors reflect your face?",
+    "shortAnswer": "A mirror has a smooth shiny surface that sends light back in an organized way. Light bouncing from your face reaches the mirror, then travels to your eyes as an image.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Light leaves your face",
+        "text": "Light from a lamp or the Sun bounces off your face."
+      },
+      {
+        "title": "The mirror redirects light",
+        "text": "Its smooth surface reflects the light in a predictable direction."
+      },
+      {
+        "title": "Your eyes receive the pattern",
+        "text": "Your brain uses the reflected light to see an image behind the mirror."
+      }
+    ],
+    "funFacts": [
+      "A rough wall also reflects light, but it scatters it in many directions instead of forming a clear image.",
+      "The image in a flat mirror appears the same distance behind the glass as you are in front of it."
+    ],
+    "quiz": {
+      "question": "What does a mirror do to light?",
+      "answers": [
+        "Reflects it in an organized way",
+        "Eats it",
+        "Turns it into sound",
+        "Freezes it"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "everyday_001",
+      "everyday_002",
+      "everyday_003",
+      "everyday_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "mirrors",
+      "light",
+      "reflection"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "everyday_005",
+    "categoryId": "everyday_life",
+    "question": "Why do we see our breath on a cold day?",
+    "shortAnswer": "Warm breath contains water vapor. When it meets cold air, the vapor cools and changes into tiny liquid drops that scatter light and look like a little cloud.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Breath carries water vapor",
+        "text": "Warm air from your lungs holds invisible water."
+      },
+      {
+        "title": "Cold air cools it",
+        "text": "The vapor loses heat as it leaves your mouth."
+      },
+      {
+        "title": "Tiny drops appear",
+        "text": "The water condenses into a visible mist."
+      }
+    ],
+    "funFacts": [
+      "The mist is not smoke; it is tiny water drops.",
+      "On a warm dry day, the vapor may stay invisible because it does not condense as easily."
+    ],
+    "quiz": {
+      "question": "What makes a visible breath cloud in cold air?",
+      "answers": [
+        "Water vapor condensing into tiny drops",
+        "Smoke from your lungs",
+        "Frozen sound",
+        "Dust from your teeth"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "everyday_001",
+      "everyday_002",
+      "everyday_003",
+      "everyday_004"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": true,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "breath",
+      "cold",
+      "water"
+    ],
+    "activityIds": []
+  }
+]

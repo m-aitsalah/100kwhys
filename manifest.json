@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "categories": {
+    "version": 1,
+    "url": "__CATEGORIES_URL__"
+  },
+  "questions": {
+    "version": 1,
+    "url": "__QUESTIONS_URL__"
+  }
+}
