@@ -3,10 +3,10 @@
   "contentVersion": 1,
   "categories": {
     "version": 1,
-    "url": "__CATEGORIES_URL__"
+    "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/categories.json"
   },
   "questions": {
     "version": 1,
-    "url": "__QUESTIONS_URL__"
+    "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/questions.json"
   }
 }
