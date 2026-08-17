@@ -6,7 +6,7 @@
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/categories.json"
   },
   "questions": {
-    "version": 1,
+    "version": 2,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/questions.json"
   },
   "stories": {
