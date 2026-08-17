@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "configVersion": 1,
+
+  "app": {
+    "enabled": true,
+    "maintenanceTitle": "We'll be right back",
+    "maintenanceMessage": "100K Whys is temporarily unavailable. Please try again soon."
+  },
+
+  "ads": {
+    "enabled": true,
+
+    "banner": {
+      "enabled": false
+    },
+
+    "native": {
+      "enabled": true
+    },
+
+    "interstitial": {
+      "enabled": true,
+      "minimumMinutes": 5,
+      "minimumActivities": 3
+    },
+
+    "rewarded": {
+      "enabled": true,
+      "rewardStars": 5
+    }
+  },
+
+  "update": {
+    "enabled": false,
+    "force": false,
+    "minimumVersionCode": 1,
+    "latestVersionCode": 1,
+    "title": "Update 100K Whys",
+    "message": "A new version of 100K Whys is available.",
+    "buttonText": "Update Now",
+    "buttonUrl": ""
+  }
+}
