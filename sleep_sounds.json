@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "sounds": [
+    {"id":"sleep_gentle_rain_001","title":"Gentle Rain","category":"nature","icon":"rain","audioAsset":"assets/audio/sleep/gentle_rain.mp3","audioUrl":null,"durationSeconds":null,"loop":true,"enabled":true,"order":1},
+    {"id":"sleep_ocean_waves_001","title":"Ocean Waves","category":"nature","icon":"ocean","audioAsset":"assets/audio/sleep/ocean_waves.mp3","audioUrl":null,"durationSeconds":null,"loop":true,"enabled":true,"order":2},
+    {"id":"sleep_forest_night_001","title":"Forest Night","category":"nature","icon":"forest","audioAsset":null,"audioUrl":null,"durationSeconds":null,"loop":true,"enabled":true,"order":3},
+    {"id":"sleep_soft_wind_001","title":"Soft Wind","category":"nature","icon":"wind","audioAsset":null,"audioUrl":null,"durationSeconds":null,"loop":true,"enabled":true,"order":4},
+    {"id":"sleep_cozy_fireplace_001","title":"Cozy Fireplace","category":"cozy","icon":"fire","audioAsset":null,"audioUrl":null,"durationSeconds":null,"loop":true,"enabled":true,"order":5},
+    {"id":"sleep_night_crickets_001","title":"Night Crickets","category":"nature","icon":"crickets","audioAsset":null,"audioUrl":null,"durationSeconds":null,"loop":true,"enabled":true,"order":6},
+    {"id":"sleep_soft_piano_001","title":"Soft Piano","category":"music","icon":"piano","audioAsset":null,"audioUrl":null,"durationSeconds":null,"loop":false,"enabled":true,"order":7},
+    {"id":"sleep_lullaby_001","title":"Lullaby","category":"music","icon":"lullaby","audioAsset":null,"audioUrl":null,"durationSeconds":null,"loop":false,"enabled":true,"order":8}
+  ]
+}
