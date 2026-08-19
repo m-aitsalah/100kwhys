@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 3,
+  "contentVersion": 4,
   "categories": {
-    "version": 1,
+    "version": 2,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/categories.json"
   },
   "questions": {
@@ -10,15 +10,15 @@
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/questions.json"
   },
   "stories": {
-    "version": 1,
+    "version": 2,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/stories.json"
   },
   "coloring": {
-    "version": 1,
+    "version": 2,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/coloring_pages.json"
   },
   "sleepSounds": {
-    "version": 1,
+    "version": 2,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/sleep_sounds.json"
   }
 }
