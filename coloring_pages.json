@@ -10,18 +10,52 @@
       "ageMax": 8,
       "artworkType": "rocket",
       "artworkReference": "rocket",
-      "recommendedPalette": ["red", "blue", "yellow", "gray"],
+      "recommendedPalette": [
+        "red",
+        "blue",
+        "yellow",
+        "gray"
+      ],
       "order": 1,
       "enabled": true,
       "regions": [
-        {"id": "rocket_body", "label": "Rocket body", "requiredForCompletion": true},
-        {"id": "rocket_window", "label": "Window", "requiredForCompletion": true},
-        {"id": "rocket_left_fin", "label": "Left fin", "requiredForCompletion": true},
-        {"id": "rocket_right_fin", "label": "Right fin", "requiredForCompletion": true},
-        {"id": "rocket_flame", "label": "Flame", "requiredForCompletion": true},
-        {"id": "rocket_star_left", "label": "Star", "requiredForCompletion": false},
-        {"id": "rocket_star_right", "label": "Star", "requiredForCompletion": false}
-      ]
+        {
+          "id": "rocket_body",
+          "label": "Rocket body",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "rocket_window",
+          "label": "Window",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "rocket_left_fin",
+          "label": "Left fin",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "rocket_right_fin",
+          "label": "Right fin",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "rocket_flame",
+          "label": "Flame",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "rocket_star_left",
+          "label": "Star",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "rocket_star_right",
+          "label": "Star",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": null
     },
     {
       "id": "color_space_astronaut_001",
@@ -33,19 +67,57 @@
       "ageMax": 9,
       "artworkType": "astronaut",
       "artworkReference": "astronaut",
-      "recommendedPalette": ["white", "blue", "red", "gray"],
+      "recommendedPalette": [
+        "white",
+        "blue",
+        "red",
+        "gray"
+      ],
       "order": 2,
       "enabled": true,
       "regions": [
-        {"id": "astronaut_helmet", "label": "Helmet", "requiredForCompletion": true},
-        {"id": "astronaut_visor", "label": "Visor", "requiredForCompletion": true},
-        {"id": "astronaut_suit", "label": "Suit", "requiredForCompletion": true},
-        {"id": "astronaut_left_arm", "label": "Left arm", "requiredForCompletion": true},
-        {"id": "astronaut_right_arm", "label": "Right arm", "requiredForCompletion": true},
-        {"id": "astronaut_left_boot", "label": "Left boot", "requiredForCompletion": true},
-        {"id": "astronaut_right_boot", "label": "Right boot", "requiredForCompletion": true},
-        {"id": "astronaut_star", "label": "Star", "requiredForCompletion": false}
-      ]
+        {
+          "id": "astronaut_helmet",
+          "label": "Helmet",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_visor",
+          "label": "Visor",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_suit",
+          "label": "Suit",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_left_arm",
+          "label": "Left arm",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_right_arm",
+          "label": "Right arm",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_left_boot",
+          "label": "Left boot",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_right_boot",
+          "label": "Right boot",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "astronaut_star",
+          "label": "Star",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": null
     },
     {
       "id": "color_space_planet_001",
@@ -57,18 +129,52 @@
       "ageMax": 9,
       "artworkType": "planet",
       "artworkReference": "planet",
-      "recommendedPalette": ["blue", "green", "purple", "yellow"],
+      "recommendedPalette": [
+        "blue",
+        "green",
+        "purple",
+        "yellow"
+      ],
       "order": 3,
       "enabled": true,
       "regions": [
-        {"id": "planet_world", "label": "Planet", "requiredForCompletion": true},
-        {"id": "planet_ring", "label": "Ring", "requiredForCompletion": true},
-        {"id": "planet_moon", "label": "Moon", "requiredForCompletion": true},
-        {"id": "planet_cloud_left", "label": "Cloud", "requiredForCompletion": false},
-        {"id": "planet_cloud_right", "label": "Cloud", "requiredForCompletion": false},
-        {"id": "planet_star_left", "label": "Star", "requiredForCompletion": false},
-        {"id": "planet_star_right", "label": "Star", "requiredForCompletion": false}
-      ]
+        {
+          "id": "planet_world",
+          "label": "Planet",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "planet_ring",
+          "label": "Ring",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "planet_moon",
+          "label": "Moon",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "planet_cloud_left",
+          "label": "Cloud",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "planet_cloud_right",
+          "label": "Cloud",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "planet_star_left",
+          "label": "Star",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "planet_star_right",
+          "label": "Star",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": null
     },
     {
       "id": "color_animals_turtle_001",
@@ -80,20 +186,62 @@
       "ageMax": 8,
       "artworkType": "turtle",
       "artworkReference": "turtle",
-      "recommendedPalette": ["green", "brown", "blue", "yellow"],
+      "recommendedPalette": [
+        "green",
+        "brown",
+        "blue",
+        "yellow"
+      ],
       "order": 1,
       "enabled": true,
       "regions": [
-        {"id": "turtle_shell", "label": "Shell", "requiredForCompletion": true},
-        {"id": "turtle_head", "label": "Head", "requiredForCompletion": true},
-        {"id": "turtle_left_flipper", "label": "Left flipper", "requiredForCompletion": true},
-        {"id": "turtle_right_flipper", "label": "Right flipper", "requiredForCompletion": true},
-        {"id": "turtle_left_back_leg", "label": "Left back leg", "requiredForCompletion": false},
-        {"id": "turtle_right_back_leg", "label": "Right back leg", "requiredForCompletion": false},
-        {"id": "turtle_tail", "label": "Tail", "requiredForCompletion": true},
-        {"id": "turtle_shell_pattern", "label": "Shell pattern", "requiredForCompletion": false},
-        {"id": "turtle_eye", "label": "Eye", "requiredForCompletion": false}
-      ]
+        {
+          "id": "turtle_shell",
+          "label": "Shell",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "turtle_head",
+          "label": "Head",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "turtle_left_flipper",
+          "label": "Left flipper",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "turtle_right_flipper",
+          "label": "Right flipper",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "turtle_left_back_leg",
+          "label": "Left back leg",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "turtle_right_back_leg",
+          "label": "Right back leg",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "turtle_tail",
+          "label": "Tail",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "turtle_shell_pattern",
+          "label": "Shell pattern",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "turtle_eye",
+          "label": "Eye",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/coloring/pages/turtle.png"
     },
     {
       "id": "color_animals_butterfly_001",
@@ -105,18 +253,52 @@
       "ageMax": 9,
       "artworkType": "butterfly",
       "artworkReference": "butterfly",
-      "recommendedPalette": ["pink", "purple", "yellow", "blue"],
+      "recommendedPalette": [
+        "pink",
+        "purple",
+        "yellow",
+        "blue"
+      ],
       "order": 2,
       "enabled": true,
       "regions": [
-        {"id": "butterfly_left_wing", "label": "Left wing", "requiredForCompletion": true},
-        {"id": "butterfly_right_wing", "label": "Right wing", "requiredForCompletion": true},
-        {"id": "butterfly_body", "label": "Body", "requiredForCompletion": true},
-        {"id": "butterfly_left_antenna", "label": "Left antenna", "requiredForCompletion": false},
-        {"id": "butterfly_right_antenna", "label": "Right antenna", "requiredForCompletion": false},
-        {"id": "butterfly_left_spot", "label": "Left spot", "requiredForCompletion": false},
-        {"id": "butterfly_right_spot", "label": "Right spot", "requiredForCompletion": false}
-      ]
+        {
+          "id": "butterfly_left_wing",
+          "label": "Left wing",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "butterfly_right_wing",
+          "label": "Right wing",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "butterfly_body",
+          "label": "Body",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "butterfly_left_antenna",
+          "label": "Left antenna",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "butterfly_right_antenna",
+          "label": "Right antenna",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "butterfly_left_spot",
+          "label": "Left spot",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "butterfly_right_spot",
+          "label": "Right spot",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": null
     },
     {
       "id": "color_animals_lion_001",
@@ -128,22 +310,72 @@
       "ageMax": 10,
       "artworkType": "lion",
       "artworkReference": "lion",
-      "recommendedPalette": ["yellow", "orange", "brown", "pink"],
+      "recommendedPalette": [
+        "yellow",
+        "orange",
+        "brown",
+        "pink"
+      ],
       "order": 3,
       "enabled": true,
       "regions": [
-        {"id": "lion_mane", "label": "Mane", "requiredForCompletion": true},
-        {"id": "lion_face", "label": "Face", "requiredForCompletion": true},
-        {"id": "lion_left_ear", "label": "Left ear", "requiredForCompletion": true},
-        {"id": "lion_right_ear", "label": "Right ear", "requiredForCompletion": true},
-        {"id": "lion_muzzle", "label": "Muzzle", "requiredForCompletion": false},
-        {"id": "lion_nose", "label": "Nose", "requiredForCompletion": false},
-        {"id": "lion_body", "label": "Body", "requiredForCompletion": true},
-        {"id": "lion_left_paw", "label": "Left paw", "requiredForCompletion": false},
-        {"id": "lion_right_paw", "label": "Right paw", "requiredForCompletion": false},
-        {"id": "lion_tail", "label": "Tail", "requiredForCompletion": false}
-        ,{"id": "lion_tail_tip", "label": "Tail tip", "requiredForCompletion": false}
-      ]
+        {
+          "id": "lion_mane",
+          "label": "Mane",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "lion_face",
+          "label": "Face",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "lion_left_ear",
+          "label": "Left ear",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "lion_right_ear",
+          "label": "Right ear",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "lion_muzzle",
+          "label": "Muzzle",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "lion_nose",
+          "label": "Nose",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "lion_body",
+          "label": "Body",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "lion_left_paw",
+          "label": "Left paw",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "lion_right_paw",
+          "label": "Right paw",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "lion_tail",
+          "label": "Tail",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "lion_tail_tip",
+          "label": "Tail tip",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/coloring/pages/lion.png"
     },
     {
       "id": "color_nature_flower_001",
@@ -155,17 +387,47 @@
       "ageMax": 8,
       "artworkType": "flower",
       "artworkReference": "flower",
-      "recommendedPalette": ["pink", "yellow", "green", "blue"],
+      "recommendedPalette": [
+        "pink",
+        "yellow",
+        "green",
+        "blue"
+      ],
       "order": 1,
       "enabled": true,
       "regions": [
-        {"id": "flower_petals", "label": "Petals", "requiredForCompletion": true},
-        {"id": "flower_center", "label": "Center", "requiredForCompletion": true},
-        {"id": "flower_stem", "label": "Stem", "requiredForCompletion": true},
-        {"id": "flower_left_leaf", "label": "Left leaf", "requiredForCompletion": true},
-        {"id": "flower_right_leaf", "label": "Right leaf", "requiredForCompletion": true},
-        {"id": "flower_sun", "label": "Sun", "requiredForCompletion": false}
-      ]
+        {
+          "id": "flower_petals",
+          "label": "Petals",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "flower_center",
+          "label": "Center",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "flower_stem",
+          "label": "Stem",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "flower_left_leaf",
+          "label": "Left leaf",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "flower_right_leaf",
+          "label": "Right leaf",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "flower_sun",
+          "label": "Sun",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": null
     },
     {
       "id": "color_nature_tree_001",
@@ -177,19 +439,57 @@
       "ageMax": 9,
       "artworkType": "tree",
       "artworkReference": "tree",
-      "recommendedPalette": ["green", "lightGreen", "brown", "blue"],
+      "recommendedPalette": [
+        "green",
+        "lightGreen",
+        "brown",
+        "blue"
+      ],
       "order": 2,
       "enabled": true,
       "regions": [
-        {"id": "tree_canopy", "label": "Canopy", "requiredForCompletion": true},
-        {"id": "tree_trunk", "label": "Trunk", "requiredForCompletion": true},
-        {"id": "tree_left_branch", "label": "Left branch", "requiredForCompletion": true},
-        {"id": "tree_right_branch", "label": "Right branch", "requiredForCompletion": true},
-        {"id": "tree_grass_left", "label": "Grass", "requiredForCompletion": false},
-        {"id": "tree_grass_right", "label": "Grass", "requiredForCompletion": false},
-        {"id": "tree_left_apple", "label": "Apple", "requiredForCompletion": false},
-        {"id": "tree_right_apple", "label": "Apple", "requiredForCompletion": false}
-      ]
+        {
+          "id": "tree_canopy",
+          "label": "Canopy",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "tree_trunk",
+          "label": "Trunk",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "tree_left_branch",
+          "label": "Left branch",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "tree_right_branch",
+          "label": "Right branch",
+          "requiredForCompletion": true
+        },
+        {
+          "id": "tree_grass_left",
+          "label": "Grass",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "tree_grass_right",
+          "label": "Grass",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "tree_left_apple",
+          "label": "Apple",
+          "requiredForCompletion": false
+        },
+        {
+          "id": "tree_right_apple",
+          "label": "Apple",
+          "requiredForCompletion": false
+        }
+      ],
+      "imageUrl": null
     }
   ]
 }
