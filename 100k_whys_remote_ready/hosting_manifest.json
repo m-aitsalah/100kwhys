@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "baseUrlPlaceholder": "https://YOUR-DOMAIN/100k_whys_remote_ready/",
+  "files": [
+    {
+      "path": "categories/animals.png",
+      "bytes": 40725
+    },
+    {
+      "path": "categories/dinosaurs.png",
+      "bytes": 37789
+    },
+    {
+      "path": "categories/earth.png",
+      "bytes": 30980
+    },
+    {
+      "path": "categories/everyday_life.png",
+      "bytes": 41200
+    },
+    {
+      "path": "categories/food.png",
+      "bytes": 36130
+    },
+    {
+      "path": "categories/human_body.png",
+      "bytes": 39844
+    },
+    {
+      "path": "categories/nature.png",
+      "bytes": 38887
+    },
+    {
+      "path": "categories/oceans.png",
+      "bytes": 36469
+    },
+    {
+      "path": "categories/science.png",
+      "bytes": 33963
+    },
+    {
+      "path": "categories/space.png",
+      "bytes": 34628
+    },
+    {
+      "path": "categories/technology.png",
+      "bytes": 34935
+    },
+    {
+      "path": "categories/weather.png",
+      "bytes": 34663
+    },
+    {
+      "path": "coloring/pages/dinosaur.png",
+      "bytes": 32957
+    },
+    {
+      "path": "coloring/pages/explorer.png",
+      "bytes": 43868
+    },
+    {
+      "path": "coloring/pages/lion.png",
+      "bytes": 31342
+    },
+    {
+      "path": "coloring/pages/turtle.png",
+      "bytes": 41224
+    },
+    {
+      "path": "sleep/audio/sleep_gentle_rain_001.mp3",
+      "bytes": 2952960
+    },
+    {
+      "path": "sleep/audio/sleep_ocean_waves_001.mp3",
+      "bytes": 6234624
+    },
+    {
+      "path": "stories/brave_little_turtle/cover.png",
+      "bytes": 82083
+    },
+    {
+      "path": "stories/brave_little_turtle/pages/page_01.png",
+      "bytes": 58317
+    },
+    {
+      "path": "stories/brave_little_turtle/pages/page_02.png",
+      "bytes": 53189
+    },
+    {
+      "path": "stories/brave_little_turtle/pages/page_03.png",
+      "bytes": 49015
+    },
+    {
+      "path": "stories/brave_little_turtle/pages/page_04.png",
+      "bytes": 47215
+    },
+    {
+      "path": "stories/brave_little_turtle/pages/page_05.png",
+      "bytes": 63885
+    },
+    {
+      "path": "stories/brave_little_turtle/pages/page_06.png",
+      "bytes": 55187
+    },
+    {
+      "path": "stories/cloud_finder/cover.png",
+      "bytes": 62770
+    },
+    {
+      "path": "stories/kind_lion/cover.png",
+      "bytes": 89372
+    },
+    {
+      "path": "stories/lost_star/cover.png",
+      "bytes": 81300
+    },
+    {
+      "path": "stories/lost_star/pages/page_01.png",
+      "bytes": 50408
+    },
+    {
+      "path": "stories/lost_star/pages/page_02.png",
+      "bytes": 52226
+    },
+    {
+      "path": "stories/lost_star/pages/page_03.png",
+      "bytes": 50210
+    },
+    {
+      "path": "stories/lost_star/pages/page_04.png",
+      "bytes": 46650
+    },
+    {
+      "path": "stories/lost_star/pages/page_05.png",
+      "bytes": 49133
+    },
+    {
+      "path": "stories/lost_star/pages/page_06.png",
+      "bytes": 52756
+    },
+    {
+      "path": "stories/rex_big_roar/cover.png",
+      "bytes": 84807
+    }
+  ]
+}
