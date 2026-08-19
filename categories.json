@@ -5,7 +5,8 @@
     "description": "Explore the universe and everything in it!",
     "iconId": "space",
     "accentColorId": "navy",
-    "displayOrder": 1
+    "displayOrder": 1,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/space.png"
   },
   {
     "id": "animals",
@@ -13,7 +14,8 @@
     "description": "Meet amazing creatures big and small.",
     "iconId": "animals",
     "accentColorId": "peach",
-    "displayOrder": 2
+    "displayOrder": 2,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/animals.png"
   },
   {
     "id": "human_body",
@@ -21,7 +23,8 @@
     "description": "Discover the incredible body you live in.",
     "iconId": "body",
     "accentColorId": "coral",
-    "displayOrder": 3
+    "displayOrder": 3,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/human_body.png"
   },
   {
     "id": "dinosaurs",
@@ -29,7 +32,8 @@
     "description": "Travel back to the age of giant reptiles.",
     "iconId": "dinosaurs",
     "accentColorId": "yellow",
-    "displayOrder": 4
+    "displayOrder": 4,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/dinosaurs.png"
   },
   {
     "id": "earth",
@@ -37,7 +41,8 @@
     "description": "Look closer at our wonderful home planet.",
     "iconId": "earth",
     "accentColorId": "sky",
-    "displayOrder": 5
+    "displayOrder": 5,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/earth.png"
   },
   {
     "id": "weather",
@@ -45,7 +50,8 @@
     "description": "Find out what makes our skies change.",
     "iconId": "weather",
     "accentColorId": "peach",
-    "displayOrder": 6
+    "displayOrder": 6,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/weather.png"
   },
   {
     "id": "nature",
@@ -53,7 +59,8 @@
     "description": "See the clever ways nature grows and changes.",
     "iconId": "nature",
     "accentColorId": "mint",
-    "displayOrder": 7
+    "displayOrder": 7,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/nature.png"
   },
   {
     "id": "oceans",
@@ -61,7 +68,8 @@
     "description": "Dive into the blue world beneath the waves.",
     "iconId": "oceans",
     "accentColorId": "sky",
-    "displayOrder": 8
+    "displayOrder": 8,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/oceans.png"
   },
   {
     "id": "science",
@@ -69,7 +77,8 @@
     "description": "Test everyday ideas with curious science.",
     "iconId": "science",
     "accentColorId": "coral",
-    "displayOrder": 9
+    "displayOrder": 9,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/science.png"
   },
   {
     "id": "technology",
@@ -77,7 +86,8 @@
     "description": "Understand the helpful tools all around you.",
     "iconId": "technology",
     "accentColorId": "navy",
-    "displayOrder": 10
+    "displayOrder": 10,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/technology.png"
   },
   {
     "id": "food",
@@ -85,7 +95,8 @@
     "description": "Taste the science in the food we eat.",
     "iconId": "food",
     "accentColorId": "coral",
-    "displayOrder": 11
+    "displayOrder": 11,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/food.png"
   },
   {
     "id": "everyday_life",
@@ -93,6 +104,7 @@
     "description": "Uncover the little mysteries in your day.",
     "iconId": "everyday",
     "accentColorId": "peach",
-    "displayOrder": 12
+    "displayOrder": 12,
+    "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/categories/everyday_life.png"
   }
 ]
