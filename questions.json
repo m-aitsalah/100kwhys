@@ -3120,57 +3120,57 @@
     "activityIds": []
   },
   {
-  "id": "space_006",
-  "categoryId": "space",
-  "question": "Why can we see the Moon during the day?",
-  "shortAnswer": "The Moon is often above the horizon during the daytime, and it reflects enough sunlight for us to see it even when the sky is bright.",
-  "heroImage": "",
-  "steps": [
-    {
-      "title": "The Moon reflects sunlight",
-      "text": "The Moon does not make its own light. Sunlight shines on it and reflects toward Earth."
-    },
-    {
-      "title": "The Moon moves around Earth",
-      "text": "As the Moon travels around Earth, it can be above our horizon during either the day or the night."
-    },
-    {
-      "title": "It can be bright enough to see",
-      "text": "Even when the sky is blue and bright, the Moon can reflect enough sunlight to be visible."
-    }
-  ],
-  "funFacts": [
-    "The Moon can often be seen in the daytime if you know where to look.",
-    "Whether we see the Moon depends on its position around Earth and the time of day."
-  ],
-  "quiz": {
-    "question": "Why can we sometimes see the Moon during the day?",
-    "answers": [
-      "Because the Moon only appears during the day",
-      "Because the Moon makes its own light",
-      "Because it can be above the horizon and reflect sunlight",
-      "Because the Sun turns off part of its light"
+    "id": "space_006",
+    "categoryId": "space",
+    "question": "Why can we see the Moon during the day?",
+    "shortAnswer": "The Moon is often above the horizon during the daytime, and it reflects enough sunlight for us to see it even when the sky is bright.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The Moon reflects sunlight",
+        "text": "The Moon does not make its own light. Sunlight shines on it and reflects toward Earth."
+      },
+      {
+        "title": "The Moon moves around Earth",
+        "text": "As the Moon travels around Earth, it can be above our horizon during either the day or the night."
+      },
+      {
+        "title": "It can be bright enough to see",
+        "text": "Even when the sky is blue and bright, the Moon can reflect enough sunlight to be visible."
+      }
     ],
-    "correctIndex": 2
-  },
-  "relatedIds": [
-    "space_001",
-    "space_002",
-    "space_003",
-    "space_004",
-    "space_005"
-  ],
-  "ageMin": 6,
-  "ageMax": 10,
-  "featured": false,
-  "popular": false,
-  "difficulty": "easy",
-  "keywords": [
-    "moon",
-    "daytime",
-    "sunlight",
-    "sky"
-  ],
-  "activityIds": []
-}
+    "funFacts": [
+      "The Moon can often be seen in the daytime if you know where to look.",
+      "Whether we see the Moon depends on its position around Earth and the time of day."
+    ],
+    "quiz": {
+      "question": "Why can we sometimes see the Moon during the day?",
+      "answers": [
+        "Because the Moon only appears during the day",
+        "Because the Moon makes its own light",
+        "Because it can be above the horizon and reflect sunlight",
+        "Because the Sun turns off part of its light"
+      ],
+      "correctIndex": 2
+    },
+    "relatedIds": [
+      "space_001",
+      "space_002",
+      "space_003",
+      "space_004",
+      "space_005"
+    ],
+    "ageMin": 6,
+    "ageMax": 10,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "moon",
+      "daytime",
+      "sunlight",
+      "sky"
+    ],
+    "activityIds": []
+  }
 ]
