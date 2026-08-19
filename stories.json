@@ -11,17 +11,58 @@
       "description": "Luna discovers a tiny lost star and helps it find its way home.",
       "coverImageKey": "luna_lost_star_cover",
       "pages": [
-        {"page": 1, "imageKey": "luna_lost_star_01", "text": "Every night, Luna sat by her window and counted the stars. One, two, three... there were always too many to count!"},
-        {"page": 2, "imageKey": "luna_lost_star_02", "text": "But tonight, something was different. A tiny golden light was hiding behind the flowers in her garden."},
-        {"page": 3, "imageKey": "luna_lost_star_03", "text": "Luna hurried outside. There she found a little star glowing softly. \"Are you lost?\" she asked."},
-        {"page": 4, "imageKey": "luna_lost_star_04", "text": "The little star twinkled sadly. Luna looked up and saw one empty spot sparkling in the night sky."},
-        {"page": 5, "imageKey": "luna_lost_star_05", "text": "Luna climbed the tallest hill and held the star high above her head. \"Try to shine as brightly as you can!\""},
-        {"page": 6, "imageKey": "luna_lost_star_06", "text": "The star began to glow brighter and brighter until a silver beam reached down from the sky."},
-        {"page": 7, "imageKey": "luna_lost_star_07", "text": "Whoosh! The little star floated home. It twinkled three times to thank Luna before joining its friends."},
-        {"page": 8, "imageKey": "luna_lost_star_08", "text": "Luna smiled and climbed into bed. From her window, one tiny star seemed to shine just for her. Good night, little star."}
+        {
+          "page": 1,
+          "imageKey": "luna_lost_star_01",
+          "text": "Every night, Luna sat by her window and counted the stars. One, two, three... there were always too many to count!",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/pages/page_01.png"
+        },
+        {
+          "page": 2,
+          "imageKey": "luna_lost_star_02",
+          "text": "But tonight, something was different. A tiny golden light was hiding behind the flowers in her garden.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/pages/page_02.png"
+        },
+        {
+          "page": 3,
+          "imageKey": "luna_lost_star_03",
+          "text": "Luna hurried outside. There she found a little star glowing softly. \"Are you lost?\" she asked.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/pages/page_03.png"
+        },
+        {
+          "page": 4,
+          "imageKey": "luna_lost_star_04",
+          "text": "The little star twinkled sadly. Luna looked up and saw one empty spot sparkling in the night sky.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/pages/page_04.png"
+        },
+        {
+          "page": 5,
+          "imageKey": "luna_lost_star_05",
+          "text": "Luna climbed the tallest hill and held the star high above her head. \"Try to shine as brightly as you can!\"",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/pages/page_05.png"
+        },
+        {
+          "page": 6,
+          "imageKey": "luna_lost_star_06",
+          "text": "The star began to glow brighter and brighter until a silver beam reached down from the sky.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/pages/page_06.png"
+        },
+        {
+          "page": 7,
+          "imageKey": "luna_lost_star_07",
+          "text": "Whoosh! The little star floated home. It twinkled three times to thank Luna before joining its friends.",
+          "imageUrl": null
+        },
+        {
+          "page": 8,
+          "imageKey": "luna_lost_star_08",
+          "text": "Luna smiled and climbed into bed. From her window, one tiny star seemed to shine just for her. Good night, little star.",
+          "imageUrl": null
+        }
       ],
       "takeaway": "Helping someone find their way can make both of you shine.",
-      "featured": true
+      "featured": true,
+      "coverImageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/lost_star/cover.png"
     },
     {
       "id": "story_milo_tiny_seed",
@@ -34,17 +75,58 @@
       "description": "Milo learns that even the smallest seed can become something wonderful.",
       "coverImageKey": "milo_tiny_seed_cover",
       "pages": [
-        {"page": 1, "imageKey": "milo_tiny_seed_01", "text": "Milo loved exploring his grandmother's garden. One morning, he found a tiny brown seed in the soil."},
-        {"page": 2, "imageKey": "milo_tiny_seed_02", "text": "\"You're so small,\" Milo whispered. \"I wonder what you could become.\""},
-        {"page": 3, "imageKey": "milo_tiny_seed_03", "text": "He made a little hole, tucked the seed inside, and covered it gently with soft earth."},
-        {"page": 4, "imageKey": "milo_tiny_seed_04", "text": "Every morning, Milo gave it a little water. Then he waited. And waited. Nothing happened."},
-        {"page": 5, "imageKey": "milo_tiny_seed_05", "text": "One sunny morning, Milo spotted something green. A tiny sprout was pushing through the soil!"},
-        {"page": 6, "imageKey": "milo_tiny_seed_06", "text": "Days passed. The sprout grew taller, opened new leaves, and stretched toward the warm sunlight."},
-        {"page": 7, "imageKey": "milo_tiny_seed_07", "text": "At last, a beautiful yellow flower opened. A butterfly landed gently on its petals."},
-        {"page": 8, "imageKey": "milo_tiny_seed_08", "text": "Milo smiled. The tiny seed had taught him something big: wonderful things sometimes need time to grow."}
+        {
+          "page": 1,
+          "imageKey": "milo_tiny_seed_01",
+          "text": "Milo loved exploring his grandmother's garden. One morning, he found a tiny brown seed in the soil.",
+          "imageUrl": null
+        },
+        {
+          "page": 2,
+          "imageKey": "milo_tiny_seed_02",
+          "text": "\"You're so small,\" Milo whispered. \"I wonder what you could become.\"",
+          "imageUrl": null
+        },
+        {
+          "page": 3,
+          "imageKey": "milo_tiny_seed_03",
+          "text": "He made a little hole, tucked the seed inside, and covered it gently with soft earth.",
+          "imageUrl": null
+        },
+        {
+          "page": 4,
+          "imageKey": "milo_tiny_seed_04",
+          "text": "Every morning, Milo gave it a little water. Then he waited. And waited. Nothing happened.",
+          "imageUrl": null
+        },
+        {
+          "page": 5,
+          "imageKey": "milo_tiny_seed_05",
+          "text": "One sunny morning, Milo spotted something green. A tiny sprout was pushing through the soil!",
+          "imageUrl": null
+        },
+        {
+          "page": 6,
+          "imageKey": "milo_tiny_seed_06",
+          "text": "Days passed. The sprout grew taller, opened new leaves, and stretched toward the warm sunlight.",
+          "imageUrl": null
+        },
+        {
+          "page": 7,
+          "imageKey": "milo_tiny_seed_07",
+          "text": "At last, a beautiful yellow flower opened. A butterfly landed gently on its petals.",
+          "imageUrl": null
+        },
+        {
+          "page": 8,
+          "imageKey": "milo_tiny_seed_08",
+          "text": "Milo smiled. The tiny seed had taught him something big: wonderful things sometimes need time to grow.",
+          "imageUrl": null
+        }
       ],
       "takeaway": "Patience and care help living things grow.",
-      "featured": true
+      "featured": true,
+      "coverImageUrl": null
     },
     {
       "id": "story_moon_couldnt_sleep",
@@ -57,16 +139,52 @@
       "description": "The Moon searches for peaceful sounds to help her settle down for the night.",
       "coverImageKey": "moon_couldnt_sleep_cover",
       "pages": [
-        {"page": 1, "imageKey": "moon_couldnt_sleep_01", "text": "High above the sleeping world, the Moon was still wide awake."},
-        {"page": 2, "imageKey": "moon_couldnt_sleep_02", "text": "\"How does everyone fall asleep so easily?\" she wondered as she watched the quiet houses below."},
-        {"page": 3, "imageKey": "moon_couldnt_sleep_03", "text": "She listened to the ocean. Whoosh... hush... whoosh... The gentle waves made her feel a little calmer."},
-        {"page": 4, "imageKey": "moon_couldnt_sleep_04", "text": "Then she heard the wind moving softly through the trees. Rustle... rustle... rustle..."},
-        {"page": 5, "imageKey": "moon_couldnt_sleep_05", "text": "A tiny owl called from the forest, and somewhere far away, gentle rain tapped on a rooftop."},
-        {"page": 6, "imageKey": "moon_couldnt_sleep_06", "text": "The Moon closed her eyes and listened to all the peaceful sounds together."},
-        {"page": 7, "imageKey": "moon_couldnt_sleep_07", "text": "Soon her glow became soft and dreamy. \"Good night, Earth,\" she whispered."}
+        {
+          "page": 1,
+          "imageKey": "moon_couldnt_sleep_01",
+          "text": "High above the sleeping world, the Moon was still wide awake.",
+          "imageUrl": null
+        },
+        {
+          "page": 2,
+          "imageKey": "moon_couldnt_sleep_02",
+          "text": "\"How does everyone fall asleep so easily?\" she wondered as she watched the quiet houses below.",
+          "imageUrl": null
+        },
+        {
+          "page": 3,
+          "imageKey": "moon_couldnt_sleep_03",
+          "text": "She listened to the ocean. Whoosh... hush... whoosh... The gentle waves made her feel a little calmer.",
+          "imageUrl": null
+        },
+        {
+          "page": 4,
+          "imageKey": "moon_couldnt_sleep_04",
+          "text": "Then she heard the wind moving softly through the trees. Rustle... rustle... rustle...",
+          "imageUrl": null
+        },
+        {
+          "page": 5,
+          "imageKey": "moon_couldnt_sleep_05",
+          "text": "A tiny owl called from the forest, and somewhere far away, gentle rain tapped on a rooftop.",
+          "imageUrl": null
+        },
+        {
+          "page": 6,
+          "imageKey": "moon_couldnt_sleep_06",
+          "text": "The Moon closed her eyes and listened to all the peaceful sounds together.",
+          "imageUrl": null
+        },
+        {
+          "page": 7,
+          "imageKey": "moon_couldnt_sleep_07",
+          "text": "Soon her glow became soft and dreamy. \"Good night, Earth,\" she whispered.",
+          "imageUrl": null
+        }
       ],
       "takeaway": "Quiet sounds and a calm routine can help us relax before sleep.",
-      "featured": true
+      "featured": true,
+      "coverImageUrl": null
     },
     {
       "id": "story_toby_ocean_adventure",
@@ -79,17 +197,58 @@
       "description": "A curious young turtle discovers the colorful world beneath the waves.",
       "coverImageKey": "toby_ocean_cover",
       "pages": [
-        {"page": 1, "imageKey": "toby_ocean_01", "text": "Toby was a young sea turtle who had always wondered what was beyond his quiet reef."},
-        {"page": 2, "imageKey": "toby_ocean_02", "text": "One bright morning, he took a deep breath and swam farther than he had ever gone before."},
-        {"page": 3, "imageKey": "toby_ocean_03", "text": "He passed a garden of colorful coral where tiny fish zipped between the branches."},
-        {"page": 4, "imageKey": "toby_ocean_04", "text": "A playful dolphin appeared. \"Follow me!\" she clicked, leading Toby through dancing beams of sunlight."},
-        {"page": 5, "imageKey": "toby_ocean_05", "text": "Suddenly Toby saw a strange bag floating in the water. It did not belong in the ocean."},
-        {"page": 6, "imageKey": "toby_ocean_06", "text": "Toby and his new friends carefully pushed it toward a cleanup boat nearby."},
-        {"page": 7, "imageKey": "toby_ocean_07", "text": "As the Sun began to set, Toby returned to his reef with an amazing story to tell."},
-        {"page": 8, "imageKey": "toby_ocean_08", "text": "The ocean was enormous and full of wonders, Toby realized, but every creature needed help keeping it clean."}
+        {
+          "page": 1,
+          "imageKey": "toby_ocean_01",
+          "text": "Toby was a young sea turtle who had always wondered what was beyond his quiet reef.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/pages/page_01.png"
+        },
+        {
+          "page": 2,
+          "imageKey": "toby_ocean_02",
+          "text": "One bright morning, he took a deep breath and swam farther than he had ever gone before.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/pages/page_02.png"
+        },
+        {
+          "page": 3,
+          "imageKey": "toby_ocean_03",
+          "text": "He passed a garden of colorful coral where tiny fish zipped between the branches.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/pages/page_03.png"
+        },
+        {
+          "page": 4,
+          "imageKey": "toby_ocean_04",
+          "text": "A playful dolphin appeared. \"Follow me!\" she clicked, leading Toby through dancing beams of sunlight.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/pages/page_04.png"
+        },
+        {
+          "page": 5,
+          "imageKey": "toby_ocean_05",
+          "text": "Suddenly Toby saw a strange bag floating in the water. It did not belong in the ocean.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/pages/page_05.png"
+        },
+        {
+          "page": 6,
+          "imageKey": "toby_ocean_06",
+          "text": "Toby and his new friends carefully pushed it toward a cleanup boat nearby.",
+          "imageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/pages/page_06.png"
+        },
+        {
+          "page": 7,
+          "imageKey": "toby_ocean_07",
+          "text": "As the Sun began to set, Toby returned to his reef with an amazing story to tell.",
+          "imageUrl": null
+        },
+        {
+          "page": 8,
+          "imageKey": "toby_ocean_08",
+          "text": "The ocean was enormous and full of wonders, Toby realized, but every creature needed help keeping it clean.",
+          "imageUrl": null
+        }
       ],
       "takeaway": "The ocean is home to many living things, and keeping it clean protects them.",
-      "featured": false
+      "featured": false,
+      "coverImageUrl": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/main/100k_whys_remote_ready/stories/brave_little_turtle/cover.png"
     },
     {
       "id": "story_nora_mars",
@@ -102,17 +261,58 @@
       "description": "Young explorer Nora imagines an unforgettable scientific adventure on Mars.",
       "coverImageKey": "nora_mars_cover",
       "pages": [
-        {"page": 1, "imageKey": "nora_mars_01", "text": "Nora zipped up her spacesuit and looked through the window. A giant red world filled the view. Mars!"},
-        {"page": 2, "imageKey": "nora_mars_02", "text": "The spacecraft landed gently. Nora stepped outside and placed her boots on the dusty ground."},
-        {"page": 3, "imageKey": "nora_mars_03", "text": "Everything looked rusty red. Nora collected a small rock sample for the science lab."},
-        {"page": 4, "imageKey": "nora_mars_04", "text": "Her little rover rolled beside her, taking pictures and measuring the ground."},
-        {"page": 5, "imageKey": "nora_mars_05", "text": "In the distance stood an enormous mountain. Mars has some of the biggest volcanoes in the Solar System."},
-        {"page": 6, "imageKey": "nora_mars_06", "text": "Before leaving, Nora looked back at her footprints. \"Maybe one day explorers really will walk here,\" she said."},
-        {"page": 7, "imageKey": "nora_mars_07", "text": "Then Nora opened her eyes. She was back in her bedroom, holding her favorite book about space."},
-        {"page": 8, "imageKey": "nora_mars_08", "text": "It had been a dream, but Nora knew where real adventures begin: with a question, a book, and a curious mind."}
+        {
+          "page": 1,
+          "imageKey": "nora_mars_01",
+          "text": "Nora zipped up her spacesuit and looked through the window. A giant red world filled the view. Mars!",
+          "imageUrl": null
+        },
+        {
+          "page": 2,
+          "imageKey": "nora_mars_02",
+          "text": "The spacecraft landed gently. Nora stepped outside and placed her boots on the dusty ground.",
+          "imageUrl": null
+        },
+        {
+          "page": 3,
+          "imageKey": "nora_mars_03",
+          "text": "Everything looked rusty red. Nora collected a small rock sample for the science lab.",
+          "imageUrl": null
+        },
+        {
+          "page": 4,
+          "imageKey": "nora_mars_04",
+          "text": "Her little rover rolled beside her, taking pictures and measuring the ground.",
+          "imageUrl": null
+        },
+        {
+          "page": 5,
+          "imageKey": "nora_mars_05",
+          "text": "In the distance stood an enormous mountain. Mars has some of the biggest volcanoes in the Solar System.",
+          "imageUrl": null
+        },
+        {
+          "page": 6,
+          "imageKey": "nora_mars_06",
+          "text": "Before leaving, Nora looked back at her footprints. \"Maybe one day explorers really will walk here,\" she said.",
+          "imageUrl": null
+        },
+        {
+          "page": 7,
+          "imageKey": "nora_mars_07",
+          "text": "Then Nora opened her eyes. She was back in her bedroom, holding her favorite book about space.",
+          "imageUrl": null
+        },
+        {
+          "page": 8,
+          "imageKey": "nora_mars_08",
+          "text": "It had been a dream, but Nora knew where real adventures begin: with a question, a book, and a curious mind.",
+          "imageUrl": null
+        }
       ],
       "takeaway": "Curiosity and learning can take your imagination anywhere.",
-      "featured": true
+      "featured": true,
+      "coverImageUrl": null
     }
   ]
 }
