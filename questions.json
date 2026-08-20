@@ -3120,56 +3120,2811 @@
     "activityIds": []
   },
   {
-    "id": "space_006",
-    "categoryId": "space",
-    "question": "Why can we see the Moon during the day?",
-    "shortAnswer": "The Moon is often above the horizon during the daytime, and it reflects enough sunlight for us to see it even when the sky is bright.",
+    "id": "why_002",
+    "categoryId": "earth",
+    "question": "Why Don't We Feel the Earth Spinning?",
+    "shortAnswer": "We move together with Earth, so its steady motion does not usually feel like a sudden push or shake.",
     "heroImage": "",
     "steps": [
       {
-        "title": "The Moon reflects sunlight",
-        "text": "The Moon does not make its own light. Sunlight shines on it and reflects toward Earth."
+        "title": "Everything Moves Together",
+        "text": "This explanation compares Earth to a huge ship traveling through space. People, buildings, air, and many things around us are carried along with Earth."
       },
       {
-        "title": "The Moon moves around Earth",
-        "text": "As the Moon travels around Earth, it can be above our horizon during either the day or the night."
+        "title": "Steady Motion Is Hard to Notice",
+        "text": "Because we are moving together with Earth, we do not directly feel the planet’s steady spin."
       },
       {
-        "title": "It can be bright enough to see",
-        "text": "Even when the sky is blue and bright, the Moon can reflect enough sunlight to be visible."
+        "title": "We Notice the Clues",
+        "text": "we recognize Earth’s rotation by watching changes in the sky, such as the Sun, Moon, and stars appearing to rise and set."
       }
     ],
     "funFacts": [
-      "The Moon can often be seen in the daytime if you know where to look.",
-      "Whether we see the Moon depends on its position around Earth and the time of day."
+      "Earth travels around the Sun at about 30 kilometers per second.",
+      "a rotation speed of about 465 meters per second."
     ],
     "quiz": {
-      "question": "Why can we sometimes see the Moon during the day?",
+      "question": "Why don't we usually feel Earth spinning?",
       "answers": [
-        "Because the Moon only appears during the day",
-        "Because the Moon makes its own light",
-        "Because it can be above the horizon and reflect sunlight",
-        "Because the Sun turns off part of its light"
+        "Because Earth never moves",
+        "Because we move together with Earth",
+        "Because clouds stop the spin",
+        "Because the Moon holds Earth still"
       ],
-      "correctIndex": 2
+      "correctIndex": 1
+    },
+    "relatedIds": [
+      "space_004",
+      "why_003",
+      "space_001"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "earth",
+      "rotation",
+      "motion",
+      "planet",
+      "sky"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_003",
+    "categoryId": "earth",
+    "question": "Why Does the Sun Look Red at Sunrise and Sunset?",
+    "shortAnswer": "When sunlight passes through more of the atmosphere, much of its light is scattered, while red and orange light can still reach our eyes strongly.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Sunlight Meets the Atmosphere",
+        "text": "Before sunlight reaches us, it passes through Earth’s atmosphere. Tiny particles and gases can scatter some of the light."
+      },
+      {
+        "title": "A Longer Trip Near the Horizon",
+        "text": "At sunrise and sunset, sunlight travels through a thicker stretch of atmosphere than it does when the Sun is high overhead."
+      },
+      {
+        "title": "Red and Orange Stand Out",
+        "text": "red and orange light pass through the long atmospheric path more strongly, so the Sun and nearby sky can look red or orange."
+      }
+    ],
+    "funFacts": [
+      "sunlight as containing seven visible colors.",
+      "Venus rotates in the opposite direction from Earth, so a person there would see the Sun rise in the west and set in the east."
+    ],
+    "quiz": {
+      "question": "When does sunlight travel through more atmosphere?",
+      "answers": [
+        "When the Sun is near the horizon",
+        "Only at midnight",
+        "When the Moon is full",
+        "During winter only"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_002",
+      "space_001"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "earth",
+      "sun",
+      "sunrise",
+      "sunset",
+      "light",
+      "atmosphere"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_005",
+    "categoryId": "space",
+    "question": "Why Does the Moon Seem to Follow Us?",
+    "shortAnswer": "The Moon is so far away that its position hardly seems to change when we move, while nearby things rush past our view.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Nearby Things Move Fast in Our View",
+        "text": "When we move, nearby trees, poles, and buildings seem to slide quickly across our view."
+      },
+      {
+        "title": "Faraway Things Barely Shift",
+        "text": "faraway mountains and the Moon seem to move much less across our view."
+      },
+      {
+        "title": "The Moon Is Extremely Far Away",
+        "text": "Because the Moon is more than 380,000 kilometers away according to the source, our small movements do not noticeably change its position in the sky. That makes it seem to follow us."
+      }
+    ],
+    "funFacts": [
+      "the Moon at more than 380,000 kilometers from Earth.",
+      "Dark-looking areas on the Moon were once compared with seas and are called lunar ‘maria’."
+    ],
+    "quiz": {
+      "question": "Why does the Moon seem to follow us?",
+      "answers": [
+        "It is extremely far away",
+        "It is attached to our car",
+        "Wind pushes it",
+        "It knows where we are"
+      ],
+      "correctIndex": 0
     },
     "relatedIds": [
       "space_001",
-      "space_002",
-      "space_003",
-      "space_004",
-      "space_005"
+      "why_006",
+      "why_007"
     ],
     "ageMin": 6,
-    "ageMax": 10,
+    "ageMax": 12,
     "featured": false,
     "popular": false,
     "difficulty": "easy",
     "keywords": [
+      "space",
       "moon",
-      "daytime",
-      "sunlight",
-      "sky"
+      "distance",
+      "perspective",
+      "illusion"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_006",
+    "categoryId": "space",
+    "question": "Does the Moon Have Oceans?",
+    "shortAnswer": "The Moon has dark flat areas called maria, but they are not oceans. They are plains made mostly from ancient volcanic rock.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Why People Thought They Were Seas",
+        "text": "From Earth, some large dark regions on the Moon look like broad smooth patches, so people once called them lunar ‘seas’."
+      },
+      {
+        "title": "What They Really Are",
+        "text": "the dark areas are broad plains of dark volcanic rock formed after molten material cooled."
+      },
+      {
+        "title": "A World Covered in Craters and Plains",
+        "text": "The Moon also has many circular craters, mountains, and long narrow grooves across its surface."
+      }
+    ],
+    "funFacts": [
+      "The word maria means seas, but lunar maria are dry plains.",
+      "Many maria look dark because they are made from dark volcanic rock."
+    ],
+    "quiz": {
+      "question": "What are lunar maria?",
+      "answers": [
+        "Large dark plains",
+        "Clouds",
+        "Forests",
+        "Rivers"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "space_001",
+      "why_005",
+      "why_007"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "moon",
+      "maria",
+      "craters",
+      "volcanic rock",
+      "apollo"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_007",
+    "categoryId": "space",
+    "question": "Can Footprints Last a Long Time on the Moon?",
+    "shortAnswer": "Footprints can last a very long time on the Moon because there is no rain, flowing water, or wind to quickly erase them.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Almost No Weather to Erase Them",
+        "text": "the Moon has no liquid water and no atmosphere like Earth’s, so there is no rain, snow, frost, or wind to wash or blow footprints away."
+      },
+      {
+        "title": "Sunlight Can Reach the Surface Directly",
+        "text": "With no thick atmosphere, the Moon’s surface is exposed directly to sunlight and the space environment."
+      },
+      {
+        "title": "But Footprints Are Not Perfectly Forever",
+        "text": "that meteor impacts and particles from space can slowly damage marks left on the surface."
+      }
+    ],
+    "funFacts": [
+      "the Moon shows us nearly the same face because its spin and trip around Earth take the same amount of time: about 27.3 days.",
+      "sound cannot travel through empty space without air."
+    ],
+    "quiz": {
+      "question": "Why can Moon footprints last so long?",
+      "answers": [
+        "There is almost no weather to erase them",
+        "The dust is glue",
+        "The Moon freezes every footprint",
+        "Astronauts paint them"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_005",
+      "why_006"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "moon",
+      "footprints",
+      "atmosphere",
+      "sound",
+      "astronauts"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_008",
+    "categoryId": "space",
+    "question": "Why Do Saturn's Rings Sometimes Disappear?",
+    "shortAnswer": "Saturn's rings can seem to disappear when we see them nearly edge-on. The rings are still there, but their thin side is hard to spot from Earth.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Saturn Has Several Ring Regions",
+        "text": "bright ring regions and darker gaps between them, including well-known divisions in the ring system."
+      },
+      {
+        "title": "The Rings Are Made of Many Pieces",
+        "text": "the rings are made from countless pieces of material, including rock, gravel-like fragments, and ice."
+      },
+      {
+        "title": "Sometimes We See the Thin Edge",
+        "text": "As Saturn moves around the Sun and our viewing angle changes, the rings can line up nearly edge-on to Earth. Then their broad surface is hard to see, so they can appear to disappear."
+      }
+    ],
+    "funFacts": [
+      "this ring ‘disappearance’ happens about every 15 years.",
+      "Saturn’s volume is about 745 times Earth’s and its mass about 95 times Earth’s."
+    ],
+    "quiz": {
+      "question": "When are the rings hardest to see?",
+      "answers": [
+        "When they are nearly edge-on to Earth",
+        "When Saturn is blue",
+        "When it rains on Earth",
+        "At noon every day"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_009",
+      "why_010"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "saturn",
+      "rings",
+      "planets",
+      "viewing angle"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_009",
+    "categoryId": "space",
+    "question": "Why Do Comets Have Tails?",
+    "shortAnswer": "When a comet gets close to the Sun, heat releases gas and dust around its nucleus, and the Sun pushes that material outward into a glowing tail.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A Comet Has a Nucleus",
+        "text": "a comet as having a solid central nucleus made from frozen materials mixed with other substances."
+      },
+      {
+        "title": "Heat Creates a Fuzzy Cloud",
+        "text": "As a comet approaches the Sun, some frozen material turns into gas, creating a large cloud around the nucleus called the coma."
+      },
+      {
+        "title": "The Sun Pushes Out the Tail",
+        "text": "solar wind and sunlight pressure push gas and dust away from the Sun, forming a long tail. The tail points away from the Sun."
+      }
+    ],
+    "funFacts": [
+      "a comet’s tail can become longer as the comet gets closer to the Sun.",
+      "the story of Comet Shoemaker–Levy 9 breaking into pieces near Jupiter."
+    ],
+    "quiz": {
+      "question": "Which way does a comet's tail point?",
+      "answers": [
+        "Away from the Sun",
+        "Always toward Earth",
+        "Always north",
+        "Toward the Moon"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_008",
+      "why_010"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "comet",
+      "tail",
+      "solar wind",
+      "sun",
+      "jupiter"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_010",
+    "categoryId": "space",
+    "question": "How Do Meteors Form?",
+    "shortAnswer": "A meteor appears when a small piece of space rock or metal enters Earth’s atmosphere at very high speed, heats up strongly, and glows.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Small Pieces Travel Through Space",
+        "text": "many pieces of rock and metal moving through space along their own paths."
+      },
+      {
+        "title": "They Race Into the Atmosphere",
+        "text": "Earth’s gravity can bring some of these pieces into the atmosphere at enormous speeds. a range of about 16 to 71 kilometers per second."
+      },
+      {
+        "title": "The Bright Streak",
+        "text": "As the fast-moving material pushes through the atmosphere, it heats up intensely and glows. That bright streak is what we call a meteor."
+      }
+    ],
+    "funFacts": [
+      "meteor entry speeds of about 16–71 kilometers per second.",
+      "comet debris can spread along a comet’s path."
+    ],
+    "quiz": {
+      "question": "What makes a meteor glow?",
+      "answers": [
+        "Strong heating as it races through the atmosphere",
+        "Moonlight only",
+        "Ocean water",
+        "Clouds"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_009",
+      "why_008"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "meteor",
+      "meteor shower",
+      "atmosphere",
+      "comet debris"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_011",
+    "categoryId": "space",
+    "question": "Do Stars Have a Life Cycle?",
+    "shortAnswer": "Stars are born, shine for a long time, and eventually change. What happens at the end depends mostly on how massive the star is.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Stars Begin in Clouds",
+        "text": "clouds of gas and dust in space as the raw material from which stars can form."
+      },
+      {
+        "title": "A Star Shines for a Long Time",
+        "text": "A young star becomes a stable shining star. For most of its life it gives off light and heat."
+      },
+      {
+        "title": "Stars Change as They Age",
+        "text": "some stars later swell into red giants and eventually end as objects such as white dwarfs, neutron stars, or other stellar remnants."
+      }
+    ],
+    "funFacts": [
+      "a star’s lifetime depends strongly on its mass.",
+      "lower-mass stars use their fuel more slowly and can live longer."
+    ],
+    "quiz": {
+      "question": "What strongly affects how long a star lives?",
+      "answers": [
+        "Its mass",
+        "Its name",
+        "Its color in a drawing",
+        "How many planets we can see"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_012",
+      "why_014",
+      "earth_001"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "stars",
+      "stellar life",
+      "nebula",
+      "red giant",
+      "white dwarf"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_012",
+    "categoryId": "space",
+    "question": "Does the North Star Really Stay Still?",
+    "shortAnswer": "The North Star looks almost still because it sits close to the direction of Earth's north axis in the sky.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Earth Is Spinning",
+        "text": "Earth rotates around an imaginary axis."
+      },
+      {
+        "title": "Polaris Is Near the Axis Direction",
+        "text": "The North Star is located close to the north end of that imaginary axis in our sky."
+      },
+      {
+        "title": "The Sky Seems to Turn Around It",
+        "text": "Because of Earth’s rotation, other stars appear to sweep around the sky while Polaris looks almost fixed. that it does move a little, but the change is hard to notice with our eyes."
+      }
+    ],
+    "funFacts": [
+      "This explanation compares the effect with standing in the middle of a room and turning around yourself.",
+      "a way to find Polaris using the Big Dipper."
+    ],
+    "quiz": {
+      "question": "Why does Polaris look almost still?",
+      "answers": [
+        "It is close to the direction of Earth’s rotation axis",
+        "It is attached to Earth",
+        "It is the smallest star",
+        "Clouds hold it in place"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_002",
+      "why_014"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "polaris",
+      "north star",
+      "rotation",
+      "axis",
+      "big dipper"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_013",
+    "categoryId": "space",
+    "question": "Why Do Solar and Lunar Eclipses Happen?",
+    "shortAnswer": "Eclipses happen when the Sun, Earth, and Moon line up so that one body blocks sunlight or moves into another body’s shadow.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A Solar Eclipse",
+        "text": "a solar eclipse happens when the Moon comes between Earth and the Sun and blocks some or all of the Sun’s light from reaching part of Earth."
+      },
+      {
+        "title": "A Lunar Eclipse",
+        "text": "A lunar eclipse happens when Earth moves between the Sun and Moon and Earth’s shadow falls on the Moon."
+      },
+      {
+        "title": "A Straight-Line Moment",
+        "text": "The key idea in the source is alignment: the Sun, Earth, and Moon must be arranged nearly along one line for an eclipse to occur."
+      }
+    ],
+    "funFacts": [
+      "solar eclipses happen more often somewhere on Earth than lunar eclipses, but any one place may see a solar eclipse less often.",
+      "the Moon can look dark red during a total lunar eclipse."
+    ],
+    "quiz": {
+      "question": "What is between Earth and the Sun during a solar eclipse?",
+      "answers": [
+        "The Moon",
+        "Mars",
+        "Saturn",
+        "A cloud"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "space_001",
+      "why_003",
+      "earth_001"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "eclipse",
+      "solar eclipse",
+      "lunar eclipse",
+      "sun",
+      "earth",
+      "moon"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_014",
+    "categoryId": "space",
+    "question": "How Were Constellations Created?",
+    "shortAnswer": "People imagined lines and pictures between groups of stars, then gave those patterns names to help organize and recognize the night sky.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "People Saw Patterns",
+        "text": "ancient skywatchers imagined nearby-looking stars connected into shapes."
+      },
+      {
+        "title": "Patterns Got Names",
+        "text": "Different shapes were given names such as animals, heroes, and familiar objects."
+      },
+      {
+        "title": "Astronomers Organized the Sky",
+        "text": "modern astronomy divides the sky into 88 recognized constellations, helping people describe where stars and other objects appear."
+      }
+    ],
+    "funFacts": [
+      "ancient Babylonian skywatchers named many star patterns.",
+      "that constellations appear to shift position during the night and across the seasons."
+    ],
+    "quiz": {
+      "question": "Who created constellation shapes?",
+      "answers": [
+        "People who imagined patterns between stars",
+        "The Moon",
+        "Clouds",
+        "Saturn’s rings"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_011",
+      "why_012"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "easy",
+    "keywords": [
+      "space",
+      "constellations",
+      "stars",
+      "night sky",
+      "sky map"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_015",
+    "categoryId": "space",
+    "question": "Are UFOs Really Alien Spaceships?",
+    "shortAnswer": "UFO means an object in the sky has not yet been identified. It does not automatically mean an alien spaceship.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What Does UFO Mean?",
+        "text": "reports of strange flying objects that witnesses could not immediately identify."
+      },
+      {
+        "title": "Many Reports Have Ordinary Explanations",
+        "text": "investigations found that many reports were false, caused by mistakes, illusions, imagination, or fabricated stories."
+      },
+      {
+        "title": "Unexplained Does Not Mean Alien",
+        "text": "a small number of reports were difficult to explain. But being unexplained is not the same as proving an extraterrestrial spacecraft was involved."
+      }
+    ],
+    "funFacts": [
+      "Many UFO reports later turn out to be aircraft, weather balloons, bright planets, or unusual clouds.",
+      "Scientists look for evidence before deciding what an unknown object might be."
+    ],
+    "quiz": {
+      "question": "What does UFO mean?",
+      "answers": [
+        "Unidentified flying object",
+        "Universal flying ocean",
+        "Ultra-fast orbit",
+        "Unknown forest object"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_017",
+      "why_018",
+      "why_011"
+    ],
+    "ageMin": 8,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "ufo",
+      "evidence",
+      "aliens",
+      "sky mystery",
+      "critical thinking"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_017",
+    "categoryId": "space",
+    "question": "Why Are Many Observatories Built on Mountains?",
+    "shortAnswer": "High mountains can have thinner, clearer, drier air with less dust and water vapor, giving telescopes a cleaner view of the sky.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Telescopes Need Clear Light",
+        "text": "astronomical observatories use telescopes to collect faint light from distant objects."
+      },
+      {
+        "title": "Lower Air Can Be Messy",
+        "text": "Smoke, dust, water vapor, and other material in the atmosphere can make faint objects harder to observe."
+      },
+      {
+        "title": "Mountain Air Can Be Better",
+        "text": "high mountaintops often have thinner air and less dust and moisture, so the atmosphere interferes less with telescope observations."
+      }
+    ],
+    "funFacts": [
+      "that cloudy or rainy weather can stop optical telescope observations.",
+      "Earth’s atmosphere absorbs some infrared and ultraviolet radiation."
+    ],
+    "quiz": {
+      "question": "Why are many observatories built high up?",
+      "answers": [
+        "The air can be clearer and drier",
+        "Stars are stored on mountains",
+        "Gravity stops there",
+        "Telescopes need snow"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_015",
+      "why_018",
+      "earth_001"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "observatory",
+      "telescope",
+      "mountain",
+      "atmosphere",
+      "astronomy"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_018",
+    "categoryId": "space",
+    "question": "Why Do Astronauts Wear Spacesuits?",
+    "shortAnswer": "Astronauts wear spacesuits because space has no breathable air and very low pressure. A spacesuit also helps control temperature and protects the astronaut.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Space Is Hostile to the Human Body",
+        "text": "space as having no breathable air, extreme temperature differences, and dangerous radiation and tiny fast-moving particles."
+      },
+      {
+        "title": "The Suit Keeps the Astronaut Alive",
+        "text": "A spacesuit provides oxygen, removes waste gases, controls pressure and temperature, and helps protect the astronaut."
+      },
+      {
+        "title": "Several Layers Do Different Jobs",
+        "text": "different suit layers handle protection, pressure, and cooling. Communication equipment is also built into the suit system."
+      }
+    ],
+    "funFacts": [
+      "A spacesuit carries oxygen for breathing.",
+      "Spacesuit layers help protect astronauts from pressure changes, temperature changes, and tiny bits of space dust."
+    ],
+    "quiz": {
+      "question": "Why can't astronauts breathe normally in open space?",
+      "answers": [
+        "There is no breathable air",
+        "The Moon steals oxygen",
+        "Stars use all the air",
+        "Helmets block sound"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_017",
+      "why_015",
+      "why_007"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "astronaut",
+      "spacesuit",
+      "life support",
+      "oxygen",
+      "pressure"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_019",
+    "categoryId": "earth",
+    "question": "How Did Earth Form?",
+    "shortAnswer": "Earth formed from dust, gas, and rocky pieces that clumped together around the young Sun. Gravity helped pull the growing planet into a round shape.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "A Cloud Around the Young Sun",
+        "text": "dust and gas gathering in the center to form the Sun, while leftover material continued moving around it."
+      },
+      {
+        "title": "Tiny Pieces Clumped Together",
+        "text": "Particles in the surrounding disk collided and stuck together, making larger chunks and then planet-sized bodies."
+      },
+      {
+        "title": "One of Those Worlds Became Earth",
+        "text": "Earth formed as part of this process roughly 4.6 billion years ago and later developed conditions suitable for life."
+      }
+    ],
+    "funFacts": [
+      "Earth into crust, mantle, and core.",
+      "the mantle as containing hot molten material."
+    ],
+    "quiz": {
+      "question": "What did Earth form from according to the source?",
+      "answers": [
+        "Dust and gas around the young Sun",
+        "Ocean water only",
+        "Moonlight",
+        "Clouds in Earth’s sky"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_002",
+      "why_020",
+      "why_011"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "earth",
+      "formation",
+      "solar system",
+      "crust",
+      "mantle",
+      "core"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_020",
+    "categoryId": "space",
+    "question": "Why Are Auroras Common Near the North and South Poles?",
+    "shortAnswer": "energetic charged particles from the Sun are guided by Earth’s magnetic field toward polar regions, where they make the upper atmosphere glow.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "The Sun Sends Out Charged Particles",
+        "text": "activity on the Sun releases streams of high-energy charged particles into space."
+      },
+      {
+        "title": "Earth Has a Magnetic Field",
+        "text": "This explanation compares Earth with a giant magnet whose magnetic influence is strongest around the polar regions."
+      },
+      {
+        "title": "The Atmosphere Lights Up",
+        "text": "When charged particles enter the upper atmosphere near the poles, they can trigger glowing light. That light display is an aurora."
+      }
+    ],
+    "funFacts": [
+      "stronger auroras with stronger activity on the Sun.",
+      "It explains that auroras are seen more often near the north and south polar regions."
+    ],
+    "quiz": {
+      "question": "What guides many charged particles toward the poles?",
+      "answers": [
+        "Earth’s magnetic field",
+        "Clouds",
+        "Rain",
+        "The Moon’s gravity"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_001",
+      "why_019",
+      "why_018"
+    ],
+    "ageMin": 7,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "space",
+      "aurora",
+      "solar activity",
+      "magnetic field",
+      "poles",
+      "atmosphere"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_022",
+    "categoryId": "oceans",
+    "question": "Can Earthquakes Happen Under the Ocean?",
+    "shortAnswer": "Yes. Earthquakes can happen under the ocean when plates move. Some undersea earthquakes can push seawater and make a tsunami, but many do not.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "ocean-bearing crustal plates can collide and rub, causing earthquakes beneath the sea."
+      },
+      {
+        "title": "How it works",
+        "text": "Strong shaking can move or crack the seafloor and push a large amount of water."
+      },
+      {
+        "title": "Why it matters",
+        "text": "That sudden water movement can form a tsunami, especially dangerous when the waves reach coastlines."
+      }
+    ],
+    "funFacts": [
+      "tsunami waves can cross the ocean very quickly.",
+      "It cites the destructive 2004 Indian Ocean tsunami."
+    ],
+    "quiz": {
+      "question": "What does \"Seafloor\" mean here?",
+      "answers": [
+        "The bottom surface of the ocean.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_003",
+      "why_023",
+      "why_029"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "earthquake",
+      "seafloor",
+      "tsunami",
+      "ocean"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_023",
+    "categoryId": "earth",
+    "question": "How Are Rocks Formed?",
+    "shortAnswer": "rocks into three big families: rocks from cooled molten material, rocks made from accumulated sediments, and rocks changed by heat, pressure, or chemical action.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Igneous rocks form when hot molten rock cools and hardens."
+      },
+      {
+        "title": "How it works",
+        "text": "Sedimentary rocks form when older material is transported, deposited, and built into layers."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Metamorphic rocks form when existing rocks are changed by high heat, pressure, or chemical conditions."
+      }
+    ],
+    "funFacts": [
+      "rock a basic material of Earth’s crust.",
+      "It says rocks can contain mineral resources such as coal, petroleum, marble, graphite, and metals."
+    ],
+    "quiz": {
+      "question": "What does \"Igneous\" mean here?",
+      "answers": [
+        "Rock formed from cooled molten material.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_022",
+      "why_024",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "rocks",
+      "igneous",
+      "sedimentary",
+      "metamorphic",
+      "minerals"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_024",
+    "categoryId": "earth",
+    "question": "How Does Coal Form?",
+    "shortAnswer": "coal forming from ancient plants that died, accumulated in wet places, were buried, and slowly changed under pressure and heat over a very long time.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "the beginning with abundant ancient plant life, especially trees."
+      },
+      {
+        "title": "How it works",
+        "text": "Dead plant material collected in swamps and was buried under mud and sediment, gradually turning into peat."
+      },
+      {
+        "title": "Why it matters",
+        "text": "With deeper burial, pressure and heat changed the material further until it became different kinds of coal."
+      }
+    ],
+    "funFacts": [
+      "coal formation takes extremely long periods of geological time.",
+      "It mentions both bituminous coal and anthracite as later coal forms."
+    ],
+    "quiz": {
+      "question": "What does \"Peat\" mean here?",
+      "answers": [
+        "Partly decayed plant material that can be an early stage in coal formation.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_023",
+      "why_025",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "coal",
+      "ancient plants",
+      "peat",
+      "fossil fuel",
+      "geology"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_025",
+    "categoryId": "earth",
+    "question": "How Did the Yunnan Stone Forest Form?",
+    "shortAnswer": "water slowly dissolved and eroded limestone along cracks, leaving tall stone pillars and deep grooves that look like a forest made of rock.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "The Stone Forest is described as a large landscape made mainly of limestone."
+      },
+      {
+        "title": "How it works",
+        "text": "Rainwater and flowing water entered cracks and slowly dissolved softer limestone over very long periods."
+      },
+      {
+        "title": "Why it matters",
+        "text": "As cracks widened and deepened, resistant rock remained as towers, ridges, and pillars."
+      }
+    ],
+    "funFacts": [
+      "the Stone Forest an area of more than 260 square kilometers.",
+      "It says the landscape developed over millions of years as land rose and water eroded the limestone."
+    ],
+    "quiz": {
+      "question": "What does \"Limestone\" mean here?",
+      "answers": [
+        "A rock made largely of calcium carbonate.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_024",
+      "why_026",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "stone forest",
+      "limestone",
+      "erosion",
+      "Yunnan",
+      "karst"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_026",
+    "categoryId": "earth",
+    "question": "How Do Stalactites Form?",
+    "shortAnswer": "Water dissolves a little limestone as it moves through cracks. When the mineral-rich water drips inside a cave, minerals can be left behind and slowly build hanging stalactites.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "rain and groundwater pass through cracks in limestone and dissolve a small amount of rock."
+      },
+      {
+        "title": "How it works",
+        "text": "When water drips from a cave roof, some mineral material is deposited as water evaporates or loses dissolved material."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Deposits grow downward from the ceiling as stalactites and upward from the floor as stalagmites; they can eventually join into columns."
+      }
+    ],
+    "funFacts": [
+      "stalactites can grow slowly over very long periods.",
+      "It explains that groundwater can also enlarge cracks to form caves."
+    ],
+    "quiz": {
+      "question": "What does \"Stalactite\" mean here?",
+      "answers": [
+        "A mineral formation that hangs from a cave ceiling.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_025",
+      "why_027",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "caves",
+      "stalactite",
+      "stalagmite",
+      "limestone",
+      "karst"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_027",
+    "categoryId": "earth",
+    "question": "How Is Petroleum Formed?",
+    "shortAnswer": "Petroleum formed from the remains of tiny ancient living things buried under layers of mud and sediment. Heat, pressure, and time changed that material into oil and gas.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "many microscopic organisms and algae living in ancient shallow seas and lakes."
+      },
+      {
+        "title": "How it works",
+        "text": "After they died, their remains mixed with mud and were buried under more sediment, becoming organic-rich material."
+      },
+      {
+        "title": "Why it matters",
+        "text": "With deeper burial, high temperature, pressure, and microbial action changed part of that material into petroleum."
+      }
+    ],
+    "funFacts": [
+      "petroleum and coal have some similarities in how buried organic material changes over time.",
+      "It lists several regions with major petroleum resources."
+    ],
+    "quiz": {
+      "question": "What does \"Petroleum\" mean here?",
+      "answers": [
+        "A liquid mixture of hydrocarbons found in underground rock formations.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_026",
+      "why_028",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "petroleum",
+      "oil",
+      "organic matter",
+      "sediment",
+      "fossil fuel"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_028",
+    "categoryId": "earth",
+    "question": "Why Do Some Sand Dunes 'Sing'?",
+    "shortAnswer": "strong wind can make dry sand grains rub and vibrate. Air spaces in the dune can resonate, creating a humming or booming sound.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Wind can move dry sand up and down a dune, making many grains rub against one another."
+      },
+      {
+        "title": "How it works",
+        "text": "Friction between grains makes the sand and the air in its spaces vibrate."
+      },
+      {
+        "title": "Why it matters",
+        "text": "warmer sand can make the sound louder, and the dune’s hollow spaces can act like a resonating chamber."
+      }
+    ],
+    "funFacts": [
+      "the phenomenon a ‘singing’ or ‘booming’ dune.",
+      "It says deserts can have dunes in many shapes because wind moves sand around obstacles."
+    ],
+    "quiz": {
+      "question": "What does \"Vibration\" mean here?",
+      "answers": [
+        "A repeated back-and-forth movement that can produce sound.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_027",
+      "why_029",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "sand dunes",
+      "desert",
+      "sound",
+      "vibration",
+      "wind"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_029",
+    "categoryId": "oceans",
+    "question": "What Resources Are Found in the Ocean?",
+    "shortAnswer": "The ocean holds living resources such as fish, minerals such as salt, and energy from waves, tides, and moving water.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "petroleum, manganese nodules, and many other minerals beneath the seabed."
+      },
+      {
+        "title": "How it works",
+        "text": "It also describes salt and possible energy from waves, tides, currents, and differences in ocean temperature."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Marine plants, fish, shellfish, and other animals are presented as major biological resources."
+      }
+    ],
+    "funFacts": [
+      "marine living resources make up a very large share of Earth’s biological resources.",
+      "It emphasizes that ocean energy sources can be used without producing ordinary fuel waste."
+    ],
+    "quiz": {
+      "question": "What does \"Manganese Nodule\" mean here?",
+      "answers": [
+        "A rounded mineral-rich lump that forms on the seafloor.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_028",
+      "why_030",
+      "why_022"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "ocean resources",
+      "minerals",
+      "energy",
+      "fisheries",
+      "manganese nodules"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_030",
+    "categoryId": "oceans",
+    "question": "Why Don't People Sink Easily in the Dead Sea?",
+    "shortAnswer": "the Dead Sea contains much more dissolved salt than ordinary seawater. The denser water provides greater buoyancy, making floating easier.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Rivers carry dissolved salts into the lake."
+      },
+      {
+        "title": "How it works",
+        "text": "the region as very hot and dry, so huge amounts of water evaporate while the salt stays behind."
+      },
+      {
+        "title": "Why it matters",
+        "text": "As the water becomes saltier and denser, it pushes up more strongly on a floating person."
+      }
+    ],
+    "funFacts": [
+      "the Dead Sea one of the saltiest lakes in the world.",
+      "It explains that evaporation is a major reason its salt concentration is so high."
+    ],
+    "quiz": {
+      "question": "What does \"Salinity\" mean here?",
+      "answers": [
+        "The amount of dissolved salt in water.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_029",
+      "why_031",
+      "why_022"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "Dead Sea",
+      "salinity",
+      "buoyancy",
+      "evaporation",
+      "salt"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_031",
+    "categoryId": "earth",
+    "question": "How Did Huangguoshu Waterfall Form?",
+    "shortAnswer": "Huangguoshu Waterfall formed where flowing water wore away rock over a long time, leaving a steep drop where the river falls downward.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "The Baishui River flows out of the mountains and reaches a steep drop in the landscape."
+      },
+      {
+        "title": "How it works",
+        "text": "Water falls over several levels, creating the dramatic Huangguoshu waterfall system described in the source."
+      },
+      {
+        "title": "Why it matters",
+        "text": "falling water can erode softer rock and make a waterfall retreat upstream over time."
+      }
+    ],
+    "funFacts": [
+      "Waterfalls often form where hard rock and softer rock wear away at different speeds.",
+      "Falling water can keep shaping the rock below a waterfall over time."
+    ],
+    "quiz": {
+      "question": "What does \"Waterfall\" mean here?",
+      "answers": [
+        "A place where a river or stream drops steeply over a rock ledge.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_030",
+      "why_032",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "waterfall",
+      "Huangguoshu",
+      "erosion",
+      "river",
+      "landforms"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_032",
+    "categoryId": "earth",
+    "question": "Why Are Some Springs Hot?",
+    "shortAnswer": "Some springs are hot because groundwater travels deep underground, warms near hot rock, and then rises back to the surface.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "hot springs with heat from deep in Earth’s crust, especially near magma or other very hot rock."
+      },
+      {
+        "title": "How it works",
+        "text": "Groundwater can move through cracks, warm up underground, and then return toward the surface."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Even places without a visible volcano may have underground hot material capable of heating water."
+      }
+    ],
+    "funFacts": [
+      "A hot spring is a natural spring warmer than the ground around it.",
+      "Hot spring water can carry dissolved minerals from the rocks it passes through."
+    ],
+    "quiz": {
+      "question": "What does \"Hot Spring\" mean here?",
+      "answers": [
+        "A natural spring whose water is warmer than the surrounding ground.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_031",
+      "why_033",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "hot spring",
+      "groundwater",
+      "magma",
+      "geothermal",
+      "minerals"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_033",
+    "categoryId": "oceans",
+    "question": "Why Is the Red Sea Called 'Red'?",
+    "shortAnswer": "The Red Sea's name may come from reddish algae blooms, nearby red-colored land, or old naming traditions. There is not just one certain explanation.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "a blue-green alga that can multiply in the Red Sea."
+      },
+      {
+        "title": "How it works",
+        "text": "When large amounts of the organism die or change, they can contribute a reddish-brown appearance."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Red dust from nearby desert regions can also be carried through the air and make the scene look even redder."
+      }
+    ],
+    "funFacts": [
+      "the Red Sea is extremely salty and warm.",
+      "It connects the high salinity with a dry climate, low rainfall, and strong evaporation."
+    ],
+    "quiz": {
+      "question": "What does \"Algae\" mean here?",
+      "answers": [
+        "Simple organisms that can live in water and use light to grow.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_032",
+      "why_034",
+      "why_022"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "Red Sea",
+      "algae",
+      "dust",
+      "salinity",
+      "evaporation"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_034",
+    "categoryId": "oceans",
+    "question": "Can the Ocean Have 'Deserts' and 'Oases'?",
+    "shortAnswer": "Yes, according to the source. Some ocean regions have very few nutrients and little life, while other regions receive nutrient-rich water and support many organisms.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "subtropical ocean regions with weak vertical mixing, so deep nutrients do not reach the sunlit surface easily."
+      },
+      {
+        "title": "How it works",
+        "text": "With too little food for plankton, the food chain stays sparse; these regions are compared with deserts."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Where currents mix or deep nutrient-rich water rises toward the surface, plankton grow and support many fish — an ocean ‘oasis.’"
+      }
+    ],
+    "funFacts": [
+      "a simple ocean food chain beginning with nutrients and plankton.",
+      "It says sunlight does not reach the very deep sea, leaving the seafloor dark."
+    ],
+    "quiz": {
+      "question": "What does \"Upwelling\" mean here?",
+      "answers": [
+        "The rise of deeper, nutrient-rich water toward the ocean surface.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_033",
+      "why_035",
+      "why_022"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "ocean desert",
+      "upwelling",
+      "plankton",
+      "food chain",
+      "nutrients"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_035",
+    "categoryId": "earth",
+    "question": "Why Are Insects Found Inside Amber?",
+    "shortAnswer": "sticky tree resin trapping small insects. Over long geological time, buried resin hardened and became amber, preserving the trapped animals.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Ancient forests produced sticky resin that sometimes trapped insects."
+      },
+      {
+        "title": "How it works",
+        "text": "More resin could cover the trapped insect, sealing it inside."
+      },
+      {
+        "title": "Why it matters",
+        "text": "After burial and long geological change, the resin hardened into amber and preserved the insect."
+      }
+    ],
+    "funFacts": [
+      "the story in ancient warm, humid forests.",
+      "It explains fossilization as the preservation of organisms in sediment over long periods."
+    ],
+    "quiz": {
+      "question": "What does \"Amber\" mean here?",
+      "answers": [
+        "Hardened fossilized tree resin.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_034",
+      "why_036",
+      "earth_003"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "amber",
+      "fossil",
+      "insects",
+      "tree resin",
+      "ancient life"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_036",
+    "categoryId": "weather",
+    "question": "Why Are Typhoons So Destructive?",
+    "shortAnswer": "A typhoon is a powerful tropical cyclone in the western Pacific. Strong winds, heavy rain, and storm surge can damage places in its path.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Warm, humid air rises over tropical seas, creating low pressure near the surface."
+      },
+      {
+        "title": "How it works",
+        "text": "Surrounding air rushes inward; Earth’s rotation helps the moving air spiral around the center."
+      },
+      {
+        "title": "Why it matters",
+        "text": "As water vapor condenses, heat is released and the rising air can intensify, helping the storm strengthen."
+      }
+    ],
+    "funFacts": [
+      "tropical cyclones usually form over warm tropical seas.",
+      "It describes the eye as a calmer low-pressure central zone."
+    ],
+    "quiz": {
+      "question": "What does \"Typhoon\" mean here?",
+      "answers": [
+        "A powerful tropical cyclone in the western North Pacific region.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_035",
+      "why_037",
+      "why_038"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "typhoon",
+      "tropical cyclone",
+      "storm",
+      "eye",
+      "warm ocean"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_037",
+    "categoryId": "weather",
+    "question": "How Do Tornadoes Form?",
+    "shortAnswer": "Tornadoes can form in strong thunderstorms when changing winds start air spinning and a powerful updraft stretches that spin into a narrow rotating column.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "tornado formation with seasons when cold and warm air strongly interact."
+      },
+      {
+        "title": "How it works",
+        "text": "Powerful upward motion can begin to rotate, creating a horizontal or tilted vortex."
+      },
+      {
+        "title": "Why it matters",
+        "text": "As the rotating column strengthens and extends downward, it can form a funnel-shaped tornado."
+      }
+    ],
+    "funFacts": [
+      "Tornadoes are narrow columns of rotating air connected to powerful storms.",
+      "Meteorologists watch radar and storm conditions to warn people when tornadoes may form."
+    ],
+    "quiz": {
+      "question": "What does \"Tornado\" mean here?",
+      "answers": [
+        "A violently rotating column of air extending from a storm cloud toward the ground.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_036",
+      "why_038",
+      "why_039"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "tornado",
+      "funnel cloud",
+      "rotation",
+      "storm",
+      "wind"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_038",
+    "categoryId": "weather",
+    "question": "Why Does It Rain?",
+    "shortAnswer": "Water evaporates from rivers, lakes, and seas, rises as vapor, cools into tiny droplets or ice crystals in clouds, and falls when the particles become large and heavy enough.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Sunlight heats surface water and turns part of it into water vapor."
+      },
+      {
+        "title": "How it works",
+        "text": "The vapor rises and cools, condensing into tiny water droplets or ice crystals that make clouds."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Cloud particles collide and grow; when they become too heavy to stay suspended, they fall toward the ground as precipitation."
+      }
+    ],
+    "funFacts": [
+      "some colored rain happens when dust or soil particles mix into clouds and raindrops.",
+      "It describes artificial rain-making methods that add substances to suitable clouds."
+    ],
+    "quiz": {
+      "question": "What does \"Condensation\" mean here?",
+      "answers": [
+        "The change of water vapor into liquid droplets.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_037",
+      "why_039",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "rain",
+      "clouds",
+      "water cycle",
+      "condensation",
+      "precipitation"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_039",
+    "categoryId": "weather",
+    "question": "Does Dew Fall from the Sky?",
+    "shortAnswer": "No. dew forms when moist air touches cool ground, leaves, or other surfaces and water vapor condenses directly into tiny droplets.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "During a clear calm night, the ground and objects can cool faster than the air."
+      },
+      {
+        "title": "How it works",
+        "text": "Moist air touching the colder surfaces can cool until water vapor condenses."
+      },
+      {
+        "title": "Why it matters",
+        "text": "The liquid droplets that collect on grass, leaves, and other objects are dew."
+      }
+    ],
+    "funFacts": [
+      "light wind can sometimes help replace drier air with moist air and produce heavier dew.",
+      "It says dew can return some moisture lost by crops during the day."
+    ],
+    "quiz": {
+      "question": "What does \"Dew\" mean here?",
+      "answers": [
+        "Tiny water droplets that condense on cool surfaces.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_038",
+      "why_040",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "dew",
+      "condensation",
+      "water vapor",
+      "morning",
+      "weather"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_040",
+    "categoryId": "weather",
+    "question": "Why Can Hail Fall in Summer?",
+    "shortAnswer": "Strong summer thunderclouds can contain very cold regions high above the ground. Powerful updrafts carry drops and ice particles up and down, building layers of ice until hailstones become too heavy and fall.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Hot summer weather can help create tall, powerful storm clouds with strong rising air."
+      },
+      {
+        "title": "How it works",
+        "text": "Inside the cold upper cloud, drops freeze onto ice particles. Strong updrafts can carry the growing hailstones upward again."
+      },
+      {
+        "title": "Why it matters",
+        "text": "After repeated trips through freezing water, hailstones grow until the updraft can no longer hold them."
+      }
+    ],
+    "funFacts": [
+      "hailstones can grow through repeated rising and falling inside storm clouds.",
+      "It explains that some hailstones show clear and cloudy layers."
+    ],
+    "quiz": {
+      "question": "What does \"Hail\" mean here?",
+      "answers": [
+        "Balls or lumps of ice that fall from strong thunderstorms.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_039",
+      "why_041",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "hail",
+      "thunderstorm",
+      "updraft",
+      "ice",
+      "summer"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_041",
+    "categoryId": "weather",
+    "question": "How Can It Be Sunny on One Side and Raining on the Other?",
+    "shortAnswer": "Rain can fall from one cloud while nearby areas stay sunny. Weather can change over short distances, especially when a rain cloud is small or moving.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "summer convective clouds growing into tall thunderclouds with strong upward air movement."
+      },
+      {
+        "title": "How it works",
+        "text": "A thundercloud can cover only a limited area, so its rain footprint may be small."
+      },
+      {
+        "title": "Why it matters",
+        "text": "If you stand near the edge of the rain cloud, you may see sunlight nearby while rain falls a short distance away."
+      }
+    ],
+    "funFacts": [
+      "forested areas can receive more rain because of moisture and local air circulation.",
+      "It discusses the fine drizzle often associated with China’s Qingming season."
+    ],
+    "quiz": {
+      "question": "What does \"Convective Cloud\" mean here?",
+      "answers": [
+        "A cloud built by strong rising warm air.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_040",
+      "why_042",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "local rain",
+      "thunderstorm",
+      "sunshine",
+      "convection",
+      "forest rain"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_042",
+    "categoryId": "weather",
+    "question": "Why Doesn't Snow Melt on High Mountains All Year?",
+    "shortAnswer": "High mountains stay much colder than lowlands because temperature generally decreases with altitude. Where the air remains below freezing for much of the year, snow and ice can survive.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "high mountain air is thin and cold, with temperatures often below freezing."
+      },
+      {
+        "title": "How it works",
+        "text": "Heat from sunlight is lost quickly in thin high-altitude air, so snow can remain for long periods."
+      },
+      {
+        "title": "Why it matters",
+        "text": "When snowfall adds faster than snow melts, glaciers and permanent snowfields can persist."
+      }
+    ],
+    "funFacts": [
+      "mountain glaciers with global temperature change.",
+      "It reports major glacier retreat in parts of the world."
+    ],
+    "quiz": {
+      "question": "What does \"Altitude\" mean here?",
+      "answers": [
+        "Height above sea level.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_041",
+      "why_043",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "mountain snow",
+      "glacier",
+      "altitude",
+      "avalanche",
+      "temperature"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_043",
+    "categoryId": "weather",
+    "question": "How Can There Be Thunder but No Rain?",
+    "shortAnswer": "You can hear thunder without rain where you are because sound travels farther than a rain shower. The storm may be nearby, but the raindrops may not reach you.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "thunderstorm rain often falls in a relatively small central area."
+      },
+      {
+        "title": "How it works",
+        "text": "Sound from thunder travels beyond the cloud’s narrow rain zone."
+      },
+      {
+        "title": "Why it matters",
+        "text": "So a person outside the rain footprint may hear thunder even though no rain falls at that exact spot."
+      }
+    ],
+    "funFacts": [
+      "Thunder is the sound made when lightning heats air very quickly.",
+      "Sound can travel outward from a storm even when rain falls somewhere else."
+    ],
+    "quiz": {
+      "question": "What does \"Thunder\" mean here?",
+      "answers": [
+        "The sound produced by rapidly heated air around lightning.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_042",
+      "why_044",
+      "why_036"
+    ],
+    "ageMin": 8,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "thunder",
+      "lightning",
+      "rain footprint",
+      "storm"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_044",
+    "categoryId": "weather",
+    "question": "Why Does It Snow in Winter?",
+    "shortAnswer": "When warm moist air meets very cold air, water vapor can form ice crystals in clouds. If the air stays cold enough all the way down, the crystals reach the ground as snow.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "winter snow with cold air from the north meeting warmer, moisture-rich air."
+      },
+      {
+        "title": "How it works",
+        "text": "Water vapor in the cloud freezes into ice crystals rather than melting into raindrops."
+      },
+      {
+        "title": "Why it matters",
+        "text": "If temperatures stay below freezing as the crystals fall, they reach the ground as snow."
+      }
+    ],
+    "funFacts": [
+      "snowflakes can form many shapes, including star-like, plate-like, and column-like forms.",
+      "It describes tiny snow pellets that may fall before ordinary snow."
+    ],
+    "quiz": {
+      "question": "What does \"Snowflake\" mean here?",
+      "answers": [
+        "A cluster of ice crystals that falls from a cloud.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_043",
+      "why_045",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "snow",
+      "winter",
+      "snowflake",
+      "ice crystals",
+      "clouds"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_045",
+    "categoryId": "weather",
+    "question": "Why Does Frost Form on Cold Mornings?",
+    "shortAnswer": "On clear cold nights, the ground and objects can cool below freezing. Water vapor from the air then forms ice crystals directly on those cold surfaces.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "After sunset, the ground can lose heat and become colder than the surrounding air."
+      },
+      {
+        "title": "How it works",
+        "text": "When the surface temperature falls below freezing, water vapor touching it can turn directly into ice crystals."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Those crystals spread across leaves, roofs, and soil as frost."
+      }
+    ],
+    "funFacts": [
+      "early autumn frost and late spring frost can damage crops.",
+      "It distinguishes ordinary frost from thick rime that can form from fog or freezing droplets."
+    ],
+    "quiz": {
+      "question": "What does \"Frost\" mean here?",
+      "answers": [
+        "A coating of ice crystals that forms directly on cold surfaces.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_044",
+      "why_046",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "frost",
+      "cold morning",
+      "ice crystals",
+      "deposition",
+      "weather"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_046",
+    "categoryId": "weather",
+    "question": "Why Does Melting Snow Make the Air Feel Colder?",
+    "shortAnswer": "Melting snow can make the air feel colder because melting takes heat from the air and ground around it.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "snow often begins before the coldest air has fully arrived."
+      },
+      {
+        "title": "How it works",
+        "text": "After the sky clears, sunlight can start melting snow."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Melting ice requires heat, so the snow absorbs heat from the air and ground and can lower nearby temperature."
+      }
+    ],
+    "funFacts": [
+      "Changing ice into liquid water requires energy.",
+      "That energy often comes from the snow's surroundings, which can make the area feel cooler."
+    ],
+    "quiz": {
+      "question": "What does \"Melting\" mean here?",
+      "answers": [
+        "The change from solid ice to liquid water.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_045",
+      "why_047",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "snowmelt",
+      "heat",
+      "cold",
+      "winter",
+      "ice"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_047",
+    "categoryId": "weather",
+    "question": "How Does Fog Form?",
+    "shortAnswer": "Fog forms when moist air near the ground cools enough for water vapor to condense into countless tiny droplets suspended in the air.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "water can store heat during the day and release it later."
+      },
+      {
+        "title": "How it works",
+        "text": "At night or early morning, warm moist air can meet colder air near land or water."
+      },
+      {
+        "title": "Why it matters",
+        "text": "When the air cools enough, water vapor condenses into tiny droplets that stay suspended close to the ground."
+      }
+    ],
+    "funFacts": [
+      "dense fog can reduce visibility below 1,000 meters and create traffic danger.",
+      "It says airports and highways may close during very thick fog."
+    ],
+    "quiz": {
+      "question": "What does \"Fog\" mean here?",
+      "answers": [
+        "A cloud of tiny water droplets close to the ground.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_046",
+      "why_048",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "fog",
+      "condensation",
+      "visibility",
+      "water vapor",
+      "weather"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_048",
+    "categoryId": "weather",
+    "question": "Why Are Clear Winter Nights So Cold?",
+    "shortAnswer": "Clouds can act like a blanket that slows heat loss from the ground. On clear winter nights, more ground heat escapes upward, so temperatures can drop faster.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "This explanation compares a thick cloud layer with a blanket that helps keep daytime heat from escaping quickly at night."
+      },
+      {
+        "title": "How it works",
+        "text": "On clear nights, there are fewer clouds to slow the loss of heat from the ground."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Cold, dry air arriving after weather clears can make the nighttime cooling feel even stronger."
+      }
+    ],
+    "funFacts": [
+      "winter north winds often bring colder air from northern regions.",
+      "It explains polar day and polar night in high-latitude regions."
+    ],
+    "quiz": {
+      "question": "What does \"Radiation\" mean here?",
+      "answers": [
+        "Energy traveling as waves, including heat emitted by Earth.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_047",
+      "weather_001",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "clear night",
+      "winter",
+      "clouds",
+      "heat loss",
+      "cold"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_052",
+    "categoryId": "oceans",
+    "question": "How Can Water Pollution Harm People?",
+    "shortAnswer": "Water pollution can make water unsafe for people, animals, and plants. Dirty or contaminated water should not be used for drinking.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "Pollution gets into water",
+        "text": "Waste, chemicals, germs, or too many nutrients can enter rivers, lakes, groundwater, or the ocean."
+      },
+      {
+        "title": "Living things can be harmed",
+        "text": "Polluted water can hurt plants and animals, and it can make water unsafe for people to drink or use."
+      },
+      {
+        "title": "Clean water protects life",
+        "text": "Treating wastewater, reducing pollution, and keeping trash out of water help protect people and habitats."
+      }
+    ],
+    "funFacts": [
+      "Pollution can move through rivers, lakes, and oceans.",
+      "Keeping water clean helps protect people, wildlife, and habitats."
+    ],
+    "quiz": {
+      "question": "What does \"Water Pollution\" mean here?",
+      "answers": [
+        "Contamination of water by harmful substances or organisms.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "earth_004",
+      "why_053",
+      "why_055"
+    ],
+    "ageMin": 8,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "water pollution",
+      "health",
+      "pathogens",
+      "oil spill",
+      "environment"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_053",
+    "categoryId": "oceans",
+    "question": "Why Should We Protect Coral Reefs?",
+    "shortAnswer": "Coral reefs take a very long time to build, provide homes and feeding grounds for many sea creatures, and can help protect coastlines from waves.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "reef-building corals leave behind hard skeletons that pile up over many generations."
+      },
+      {
+        "title": "How it works",
+        "text": "Reefs provide shelter, feeding places, and nursery areas for many fish and other marine organisms."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Large reef structures can also reduce the force of ocean waves reaching the shore."
+      }
+    ],
+    "funFacts": [
+      "coral reefs can take hundreds to thousands of years to develop.",
+      "It says accumulated coral skeletons can help form coral islands."
+    ],
+    "quiz": {
+      "question": "What does \"Coral Reef\" mean here?",
+      "answers": [
+        "A large underwater structure built mainly from the skeletons of reef-building corals.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_052",
+      "why_054",
+      "why_022"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "coral reef",
+      "coral polyp",
+      "marine habitat",
+      "coast protection",
+      "ocean"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_054",
+    "categoryId": "weather",
+    "question": "What Is the El Niño Phenomenon?",
+    "shortAnswer": "El Nino is a repeating climate pattern when surface water in the central and eastern Pacific Ocean becomes warmer than usual and changes weather in many places.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "El Niño appears every few years as unusual warming in the eastern equatorial Pacific."
+      },
+      {
+        "title": "How it works",
+        "text": "It says the warming can change air circulation and influence rainfall, drought, and flooding far from the Pacific."
+      },
+      {
+        "title": "Why it matters",
+        "text": "examples of unusual drought and flood patterns during El Niño years."
+      }
+    ],
+    "funFacts": [
+      "El Nino starts in the Pacific Ocean and can affect weather far away.",
+      "Scientists watch ocean temperatures and winds to study El Nino."
+    ],
+    "quiz": {
+      "question": "What does \"El Niño\" mean here?",
+      "answers": [
+        "A recurring period of unusually warm surface water in the central/eastern equatorial Pacific described in the source.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_053",
+      "why_055",
+      "why_036"
+    ],
+    "ageMin": 8,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "hard",
+    "keywords": [
+      "El Nino",
+      "Pacific Ocean",
+      "climate",
+      "warming",
+      "rainfall"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_055",
+    "categoryId": "weather",
+    "question": "Why Does Acid Rain Fall?",
+    "shortAnswer": "pollution gases from human activities can combine with water in the atmosphere to form acids. When that acidic water falls as rain, it can harm soil, plants, animals, and buildings.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "sulfur-containing and nitrogen-containing pollution gases as major ingredients in acid rain."
+      },
+      {
+        "title": "How it works",
+        "text": "In the atmosphere, these gases can react with water and become acids that dissolve into cloud droplets and rain."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Acid rain can damage soil, vegetation, freshwater animals, and stone buildings."
+      }
+    ],
+    "funFacts": [
+      "acid rain can make soil less fertile.",
+      "It says acidic water can harm fish in lakes and rivers."
+    ],
+    "quiz": {
+      "question": "What does \"Acid Rain\" mean here?",
+      "answers": [
+        "Rain made unusually acidic by air pollutants that form acids in the atmosphere.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_054",
+      "why_056",
+      "why_052"
+    ],
+    "ageMin": 8,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "hard",
+    "keywords": [
+      "acid rain",
+      "pollution",
+      "sulfur dioxide",
+      "nitrogen oxides",
+      "environment"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_056",
+    "categoryId": "earth",
+    "question": "What Can the Greenhouse Effect Cause?",
+    "shortAnswer": "The greenhouse effect helps keep Earth warm enough for life. When extra greenhouse gases strengthen it, Earth can warm and weather patterns can change.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "on increasing carbon dioxide as a driver of a stronger greenhouse effect."
+      },
+      {
+        "title": "How it works",
+        "text": "It describes rising average temperature as a possible result."
+      },
+      {
+        "title": "Why it matters",
+        "text": "It links warming with melting polar ice, higher sea level, and risks to coastal cities and ecosystems."
+      }
+    ],
+    "funFacts": [
+      "Greenhouse gases trap some heat in Earth's atmosphere.",
+      "Human activities can add extra greenhouse gases to the air."
+    ],
+    "quiz": {
+      "question": "What does \"Greenhouse Effect\" mean here?",
+      "answers": [
+        "The warming that happens when gases in the atmosphere slow the escape of heat.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_055",
+      "why_052"
+    ],
+    "ageMin": 8,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "hard",
+    "keywords": [
+      "greenhouse effect",
+      "climate",
+      "carbon dioxide",
+      "sea level",
+      "environment"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_058",
+    "categoryId": "earth",
+    "question": "Who Made the Giant Moai Statues of Rapa Nui?",
+    "shortAnswer": "The giant moai statues were made by the Rapa Nui people, whose ancestors came from Polynesia. The statues are important parts of their history and culture.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "more than 600 enormous stone statues around Easter Island."
+      },
+      {
+        "title": "How it works",
+        "text": "It says most researchers connected the statues with the ancestors of Polynesian islanders."
+      },
+      {
+        "title": "Why it matters",
+        "text": "large-scale carving began many centuries ago, later stopped, and left many statues and questions behind."
+      }
+    ],
+    "funFacts": [
+      "Rapa Nui is also widely known as Easter Island.",
+      "Moai are large stone statues connected with Rapa Nui history and identity."
+    ],
+    "quiz": {
+      "question": "What does \"Moai\" mean here?",
+      "answers": [
+        "The giant stone statues of Easter Island.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_059"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "Easter Island",
+      "Moai",
+      "Polynesia",
+      "archaeology",
+      "mystery"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_059",
+    "categoryId": "weather",
+    "question": "Why Does a 'Buddha Light' Appear on Mount Emei?",
+    "shortAnswer": "The Mount Emei 'Buddha Light' is an optical glory. When the Sun is behind a person and mist or cloud is ahead, colored rings can appear around the person's shadow.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "the effect is seen on clear days when a person stands with the Sun behind them and a cloud or fog bank below or ahead."
+      },
+      {
+        "title": "How it works",
+        "text": "Light is scattered and diffracted by tiny droplets in the mist, creating colored rings."
+      },
+      {
+        "title": "Why it matters",
+        "text": "If the observer’s shadow lies between the Sun and the ring pattern, the shadow appears centered inside the glowing halo."
+      }
+    ],
+    "funFacts": [
+      "the phenomenon is also called a halo-like ‘treasure light.’",
+      "It notes that similar glories can be seen in several other mountain regions around the world."
+    ],
+    "quiz": {
+      "question": "What does \"Glory\" mean here?",
+      "answers": [
+        "A colored ring or set of rings around the shadow of an observer on cloud or fog.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_058",
+      "why_036"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "Emei Mountain",
+      "glory",
+      "optics",
+      "fog",
+      "light"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_061",
+    "categoryId": "earth",
+    "question": "Why Did the Ancient Kingdom of Loulan Disappear?",
+    "shortAnswer": "Loulan's decline to changing rivers and shrinking water supplies. When water became harder to find, people could no longer live there in the same way.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "Loulan as once prosperous, with a large population that depended heavily on nearby rivers for farming and drinking water."
+      },
+      {
+        "title": "How it works",
+        "text": "Over time, river channels changed and Lop Nur shrank."
+      },
+      {
+        "title": "Why it matters",
+        "text": "When reliable water disappeared, the local population could no longer remain and gradually abandoned the area."
+      }
+    ],
+    "funFacts": [
+      "Loulan was an ancient settlement in a dry region of Central Asia.",
+      "Changing water supplies can affect where people are able to farm and live."
+    ],
+    "quiz": {
+      "question": "What does \"Loulan\" mean here?",
+      "answers": [
+        "An ancient settlement and kingdom in the Tarim Basin region described in the source.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_062",
+      "why_058"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "Loulan",
+      "desert",
+      "river change",
+      "Lop Nur",
+      "ancient city"
+    ],
+    "activityIds": []
+  },
+  {
+    "id": "why_062",
+    "categoryId": "nature",
+    "question": "Why Is Protecting Forests So Important?",
+    "shortAnswer": "Protecting forests matters because forests support living things, help hold soil, store carbon, release oxygen, and keep ecosystems healthier.",
+    "heroImage": "",
+    "steps": [
+      {
+        "title": "What happens",
+        "text": "forest area has been shrinking because of natural disasters and excessive cutting."
+      },
+      {
+        "title": "How it works",
+        "text": "Trees and other plants use photosynthesis to absorb carbon dioxide and release oxygen."
+      },
+      {
+        "title": "Why it matters",
+        "text": "Forests also trap dust, reduce noise, help protect soil and water, and improve living conditions."
+      }
+    ],
+    "funFacts": [
+      "Forests are homes for many plants, animals, fungi, and microbes.",
+      "Tree roots help hold soil in place and reduce erosion."
+    ],
+    "quiz": {
+      "question": "What does \"Photosynthesis\" mean here?",
+      "answers": [
+        "The process by which green plants use light to make food and release oxygen.",
+        "A kind of toy",
+        "A musical note",
+        "A type of cloud on every planet"
+      ],
+      "correctIndex": 0
+    },
+    "relatedIds": [
+      "why_061",
+      "why_052",
+      "why_055"
+    ],
+    "ageMin": 6,
+    "ageMax": 12,
+    "featured": false,
+    "popular": false,
+    "difficulty": "medium",
+    "keywords": [
+      "forest",
+      "trees",
+      "oxygen",
+      "carbon dioxide",
+      "deforestation",
+      "environment"
     ],
     "activityIds": []
   }
