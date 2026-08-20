@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 4,
+  "contentVersion": 5,
   "categories": {
     "version": 2,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/categories.json"
   },
   "questions": {
-    "version": 2,
+    "version": 3,
     "url": "https://raw.githubusercontent.com/m-aitsalah/100kwhys/refs/heads/main/questions.json"
   },
   "stories": {
